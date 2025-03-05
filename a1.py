@@ -142,23 +142,48 @@ def rotate_left(cube, front):
 
 #randomizes the cube by performing a given number of random rotations.
 def randomize(cube, moves):
+    last_move = None  # store previous move
+    
     for _ in range(moves):
-        face = random.randint(0, 5)  # Select a random face (0-5)
-        direction = random.choice([rotate_right, rotate_left])  # Randomly choose CW or CCW rotation
+        while True:
+            face = random.randint(0, 5)  
+            direction = random.choice([rotate_right, rotate_left])  # Randomly choose CW or CCW rotation
+            
+            # Ensure the move is not the direct inverse of the last one
+            if last_move is None or not (last_move[0] == face and last_move[1] != direction):
+                break  # Valid move found
+        
         direction(cube, face)  # Apply the rotation
+        last_move = (face, direction)  # Update last move
+    
     print("cube randomized")
-    print_cube()
 
-print_cube()
-rotate_left(cube, 5)
-print_cube()
-print(is_solved(cube))
-rotate_left(cube, 5)
-print_cube()
-print(is_solved(cube))
-rotate_left(cube,0)
-print_cube()
-print(is_solved(cube))
-rotate_left(cube,0)
-print_cube()
-print(is_solved(cube))
+def main():
+    print("this is the current state of the cube.")
+    print_cube()
+    while True:
+        print("input the move you want to use; R = rotate right, L = rotate left, S = scramble, C = check if solved, Q = quit")
+        user_input = input("input a move: ")
+
+        if user_input == "Q":
+            print("bye!")
+            break
+        elif user_input == "S":
+            moves = int(input("how many random actions do you want to scramble the cube? "))
+            randomize(cube, moves)
+            print_cube()
+        elif user_input == "C":
+            if is_solved(cube):
+                print("the cube is solved!")
+            else:
+                print("the cube is not solved.")
+        elif user_input == "R" or user_input == "L":
+            face = int(input("enter face number (0 to 5): "))
+            if user_input == "R":
+                rotate_right(cube, face)
+            elif user_input == "L":
+                rotate_left(cube, face)
+            print_cube()
+
+if __name__ == "__main__":
+    main()
