@@ -76,21 +76,20 @@ def is_solved(cube):
 
 #helper functions to rotate face
 def rotate_face_clockwise(face):
-    #Rotates a 2x2 face clockwise in-place.
+    #rotates a 2x2 face clockwise in-place.
     face[0], face[1], face[2], face[3] = face[2], face[0], face[3], face[1]
     
 
 def rotate_face_counterclockwise(face):
-    #Rotates a 2x2 face counterclockwise in-place.
+    #rotates a 2x2 face counterclockwise in-place.
     face[0], face[1], face[2], face[3] = face[1], face[3], face[0], face[2]
     
 
-
 #rotates the specified front face clockwise and shifts adjacent edges.
 def rotate_right(cube, face):
-    rotate_face_clockwise(cube.state[face])  # Rotate the selected face itself
+    rotate_face_clockwise(cube.state[face])  # rotate the selected face itself
 
-    # Define adjacent face mappings
+    # faces connected to the specified face
     adjacent_faces = {
         0: [1, 2, 3, 4, 5],  
         1: [5, 2, 0, 4, 3],  
@@ -101,13 +100,12 @@ def rotate_right(cube, face):
         print("Invalid face index")
         return
 
-    a, b, c, d, e = adjacent_faces[face]  # Get adjacent faces
+    a, b, c, d, e = adjacent_faces[face]  # get adjacent faces
 
+    # move adjacent stickers for the face being rotated
     if face == 0:
-        # Save original stickers before overwriting them
         temp = [cube.state[a][0], cube.state[a][1]]
 
-        # Move stickers in a cycle (correct order)
         cube.state[a][0], cube.state[a][1] = cube.state[b][0], cube.state[b][1]
         cube.state[b][0], cube.state[b][1] = cube.state[c][0], cube.state[c][1]
         cube.state[c][0], cube.state[c][1] = cube.state[d][0], cube.state[d][1]
@@ -128,8 +126,9 @@ def rotate_right(cube, face):
         cube.state[c][3], cube.state[c][2] = cube.state[d][1], cube.state[d][3]
         cube.state[d][1], cube.state[d][3] = temp[0], temp[1]
 
+#rotate the face left
 def rotate_left(cube, face):
-    # Define adjacent face mappings (same as clockwise)
+    # faces connected to the specified face
     adjacent_faces = {
         0: [1, 2, 3, 4, 5],  
         1: [5, 2, 0, 4, 3],  
@@ -140,16 +139,15 @@ def rotate_left(cube, face):
         print("Invalid face index")
         return
 
-    a, b, c, d, e = adjacent_faces[face]  # Get adjacent faces
+    a, b, c, d, e = adjacent_faces[face]  # get adjacent faces
 
-    # Rotate the selected face itself (counterclockwise)
+    # rotate the selected face itself (counterclockwise)
     rotate_face_counterclockwise(cube.state[face])
 
+    # move adjacent stickers for the face being rotated
     if face == 0:
-        # Save the original stickers to avoid overwriting
         temp = [cube.state[b][0], cube.state[b][1]]
 
-        # Move stickers in a cycle (counterclockwise direction)
         cube.state[b][0], cube.state[b][1] = cube.state[a][0], cube.state[a][1]  
         cube.state[a][0], cube.state[a][1] = cube.state[d][0], cube.state[d][1]  
         cube.state[d][0], cube.state[d][1] = cube.state[c][0], cube.state[c][1]  
@@ -171,56 +169,175 @@ def rotate_left(cube, face):
         cube.state[d][1], cube.state[d][3] = temp[0], temp[1]
 
 #randomizes the cube.state by performing a given number of random rotations.
-def randomize(cube, moves):
-    last_move = None  # store previous move
-    
-    for _ in range(moves):
+def randomize(cube, num_moves):
+    last_move = None  # store previous move as (face, direction)
+
+    for _ in range(num_moves):
         while True:
-            face = random.randint(0, 2)  
-            direction = random.choice([rotate_right, rotate_left])  # Randomly choose CW or CCW rotation
+            face = random.randint(0, 2)  # randomly choose a face (0, 1, or 2)
+            direction = random.choice([rotate_right, rotate_left])  # randomly choose left or right rotation
+
+            # ensure the move is not the direct inverse of the last one
+            if last_move is not None: 
+                last_face, last_direction = last_move  # get last move
+
+                # check if the same face was last moved, and if the direction is the reverse
+                if face == last_face:
+                    if (last_direction == rotate_right and direction == rotate_left) or (last_direction == rotate_left and direction == rotate_right):
+                        continue  
             
-            # Ensure the move is not the direct inverse of the last one
-            if last_move is None or not (last_move[0] == face and last_move[1] != direction):
-                break  # Valid move found
-        
-        direction(cube, face)  # Apply the rotation
-        last_move = (face, direction)  # Update last move
-        print(last_move)
-    
+            # perform the move
+            direction(cube, face)
+            last_move = (face, direction) 
+            break  # valid move, exit the loop
+
     print("cube randomized")
 
-actions = ['top_cw', 'top_ccw', 'left_cw', 'left_ccw', 'right_cw', 'right_ccw']
+#helper function to convert the cube's state to a tuple 
+def state_to_tuple(cube):
+    return tuple(tuple(face) for face in cube.state)
 
-reverse_move = {
-    'top_cw': 'top_ccw',
-    'top_ccw': 'top_cw',
-    'left_cw': 'left_ccw',
-    'left_ccw': 'left_cw',
-    'right_cw': 'right_ccw',
-    'right_ccw': 'right_cw'
-}
+#bfs solver
+def bfs_solver(initial_cube):
+    # create a queue
+    queue = deque([(initial_cube, [])])  # each entry is a tuple (cube, sequence_of_moves)
+    
+    # set of visited states
+    visited = set()
 
-def apply_move(cube, move):
-    print(f"Applying move: {move}")  # Log which move is being applied
-    if isinstance(cube, Cube):  # Ensure the object is a Cube instance
-        if move == 'top_cw':
-            rotate_right(cube, 0)
-        elif move == 'top_ccw':
-            rotate_left(cube, 0)
-        elif move == 'left_cw':
-            rotate_right(cube, 1)
-        elif move == 'left_ccw':
-            rotate_left(cube, 1)
-        elif move == 'right_cw':
-            rotate_right(cube, 2)
-        elif move == 'right_ccw':
-            rotate_left(cube, 2)
-        
-        return cube  # Return the updated state after applying the move
-    else:
-        print("Error: 'cube' is not an instance of the Cube class")
+    # convert the initial state to a tuple
+    initial_state = state_to_tuple(initial_cube)
+    visited.add(initial_state)
+
+    while queue:
+        current_cube, move_sequence = queue.popleft()
+
+        # if the current state is solved, return the solution sequence
+        if is_solved(current_cube.state):
+            #reverse the generated sequence
+            return move_sequence[::-1]
+
+        # explore all possible moves from the current state
+        for face in range(3):  # exploiting symmetry so only working 3 faces
+            for direction in [rotate_right, rotate_left]:
+                # make a copy of the cube to apply the move (to avoid modifying the original)
+                new_cube = Cube()
+                new_cube.state = [face[:] for face in current_cube.state] 
+
+                direction(new_cube, face)
+                
+                # convert the new state to a tuple
+                new_state = state_to_tuple(new_cube)
+
+                # if this state hasn't been visited before, add it to the queue
+                if new_state not in visited:
+                    visited.add(new_state)
+                    queue.append((new_cube, move_sequence + [f"Face {face}, {'Right' if direction == rotate_right else 'Left'}"]))
+
+    return None
+
+# dls to gradually increase depth limit
+def dls(cube, depth, path, visited):
+
+    #no need to reverse sequence as it is already in solved order.
+    if is_solved(cube.state):
+        return path
+    if depth == 0:
         return None
 
+    visited.add(state_to_tuple(cube))  # store visited states
+
+    for face in range(3):  
+        for direction in [rotate_right, rotate_left]:
+            # copy cube
+            new_cube = Cube()
+            new_cube.state = [row[:] for row in cube.state]  
+
+            # apply the move
+            direction(new_cube, face)
+            
+            new_state = state_to_tuple(new_cube)
+
+            if new_state not in visited:
+                result = dls(
+                    new_cube, depth - 1, 
+                    path + [f"Face {face}, {'Right' if direction == rotate_right else 'Left'}"], 
+                    visited
+                )
+                if result:
+                    return result
+
+    return None  
+
+#iddfs solver
+def iddfs_solver(initial_cube):
+    depth = 0
+    while True:
+        visited = set()
+        result = dls(initial_cube, depth, [], visited)
+        if result:
+            return result
+        depth += 1
+        if depth > 10:  # set a limit of depth 10
+            return None
+
+# heuristic for ida* algorithm
+def misplaced_heuristic(cube):
+    # add up all the stickers that are out of place
+    goal_state = Cube().state 
+    return sum(
+        1 for i in range(len(cube.state)) for j in range(len(cube.state[i]))
+        if cube.state[i][j] != goal_state[i][j]
+    )
+
+#iterative deepning function for ida*
+def ida_star_dls(cube, path, g, threshold):
+    f = g + misplaced_heuristic(cube)  # f = g + h
+
+    if f > threshold:
+        return f  # return next threshold suggestion
+    if is_solved(cube.state):
+        # similar to iddfs the moves do not need to be reversed
+        return path  
+
+    #track the lowest f score
+    min_threshold = float('inf')  
+
+    for face in range(3):
+        for direction in [rotate_right, rotate_left]:
+            #copy cube
+            new_cube = Cube()
+            new_cube.state = [row[:] for row in cube.state] 
+
+            # apply the move
+            direction(new_cube, face)
+
+            # recursive search
+            result = ida_star_dls(
+                new_cube, 
+                path + [f"Face {face}, {'Right' if direction == rotate_right else 'Left'}"], 
+                g + 1, threshold
+            )
+
+            if isinstance(result, list): 
+                return result 
+            min_threshold = min(min_threshold, result)
+
+    return min_threshold  #returns threshold score
+
+# ida* solver
+def ida_star_solver(initial_cube):
+    threshold = misplaced_heuristic(initial_cube)  # start with f score
+
+    while True:
+        result = ida_star_dls(initial_cube, [], 0, threshold)
+
+        if isinstance(result, list):  
+            return result  
+        if result == float('inf'):  # no solution
+            return None  
+
+        threshold = result  # update threshold and continue search
 
 '''def main():
     init_cube = Cube()
