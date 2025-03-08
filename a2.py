@@ -364,9 +364,11 @@ def reset_metrics():
 
 def experiment():
     # save to a file for writing (append mode) at the start of the experiment
-    with open('algorithm_results.txt', 'a') as f:
-        for k in range(1, 11):  # 1 - 10 random turns
+    with open('/Users/elvis/Desktop/results.txt', 'a') as f:
+        for k in range(1, 26):  # 1 - 10 random turns
             f.write(f"\nRunning experiment for k={k} random turns\n")  # save the current depth
+            f.flush()
+            print(f"\nRunning experiment for k={k} random turns") #keep track of progress in terminal
 
             for i in range(20):  # 20 randomized cubes
                 init_cube = Cube()
@@ -380,6 +382,7 @@ def experiment():
                 nodes_expanded_bfs = nodes_expanded
                 queue_size_bfs = priority_queue_size
                 f.write(f"Cube {i + 1} - BFS: Nodes Expanded: {nodes_expanded_bfs}, CPU Time: {cpu_time_bfs:.4f} sec, Queue Size: {queue_size_bfs}\n")
+                f.flush()
 
                 # IDDFS
                 reset_metrics()
@@ -388,6 +391,7 @@ def experiment():
                 cpu_time_iddfs = time.time() - start_time
                 nodes_expanded_iddfs = nodes_expanded
                 f.write(f"Cube {i + 1} - IDDFS: Nodes Expanded: {nodes_expanded_iddfs}, CPU Time: {cpu_time_iddfs:.4f} sec\n")
+                f.flush()
 
                 # IDA*
                 reset_metrics()
@@ -397,8 +401,10 @@ def experiment():
                 nodes_expanded_ida = nodes_expanded
                 queue_size_ida = priority_queue_size
                 f.write(f"Cube {i + 1} - IDA*: Nodes Expanded: {nodes_expanded_ida}, CPU Time: {cpu_time_ida:.4f} sec, Queue Size: {queue_size_ida}\n")
+                f.flush()
 
 # Run the experiment
+print("running experiment")
 experiment()
 
 '''def main():
