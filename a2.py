@@ -191,7 +191,6 @@ def randomize(cube, num_moves):
             last_move = (face, direction) 
             break  # valid move, exit the loop
 
-    print("cube randomized")
 
 #helper function to convert the cube's state to a tuple 
 def state_to_tuple(cube):
@@ -199,6 +198,9 @@ def state_to_tuple(cube):
 
 #bfs solver
 def bfs_solver(initial_cube):
+    #keep track of nodes expanded and queue size for experiments
+    global nodes_expanded, priority_queue_size
+
     # create a queue
     queue = deque([(initial_cube, [])])  # each entry is a tuple (cube, sequence_of_moves)
     
@@ -211,6 +213,8 @@ def bfs_solver(initial_cube):
 
     while queue:
         current_cube, move_sequence = queue.popleft()
+        nodes_expanded += 1 #track nodes expanded
+        priority_queue_size = len(queue) #track queue size
 
         # if the current state is solved, return the solution sequence
         if is_solved(current_cube.state):
@@ -238,6 +242,7 @@ def bfs_solver(initial_cube):
 
 # dls to gradually increase depth limit
 def dls(cube, depth, path, visited):
+    global nodes_expanded #track nodes expanded
 
     #no need to reverse sequence as it is already in solved order.
     if is_solved(cube.state):
@@ -258,6 +263,8 @@ def dls(cube, depth, path, visited):
             
             new_state = state_to_tuple(new_cube)
 
+            nodes_expanded += 1 #increment nodes expanded
+
             if new_state not in visited:
                 result = dls(
                     new_cube, depth - 1, 
@@ -271,6 +278,8 @@ def dls(cube, depth, path, visited):
 
 #iddfs solver
 def iddfs_solver(initial_cube):
+    global nodes_expanded #track nodes expanded from dls
+
     depth = 0
     while True:
         visited = set()
@@ -292,6 +301,8 @@ def misplaced_heuristic(cube):
 
 #iterative deepning function for ida*
 def ida_star_dls(cube, path, g, threshold):
+    global nodes_expanded #track nodes expanded
+    
     f = g + misplaced_heuristic(cube)  # f = g + h
 
     if f > threshold:
@@ -312,6 +323,8 @@ def ida_star_dls(cube, path, g, threshold):
             # apply the move
             direction(new_cube, face)
 
+            nodes_expanded += 1 #incremenet node expanded
+
             # recursive search
             result = ida_star_dls(
                 new_cube, 
@@ -327,6 +340,8 @@ def ida_star_dls(cube, path, g, threshold):
 
 # ida* solver
 def ida_star_solver(initial_cube):
+    global nodes_expanded #global variable for node expansion count from ida dls
+    
     threshold = misplaced_heuristic(initial_cube)  # start with f score
 
     while True:
@@ -338,6 +353,7 @@ def ida_star_solver(initial_cube):
             return None  
 
         threshold = result  # update threshold and continue search
+
 
 '''def main():
     init_cube = Cube()
