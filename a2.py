@@ -354,6 +354,48 @@ def ida_star_solver(initial_cube):
 
         threshold = result  # update threshold and continue search
 
+#experiment
+def reset_metrics():
+    global nodes_expanded, cpu_time, priority_queue_size
+    nodes_expanded = 0
+    cpu_time = 0
+    priority_queue_size = 0
+
+def experiment():
+    for k in range(1, 11):  # depth (how many random turns)
+        print(f"\nRunning experiment for k={k} random turns")
+        
+        for i in range(5):  # 20 randomized cubes
+            init_cube = Cube()
+            randomize(init_cube, k)
+
+            # BFS
+            reset_metrics()
+            start_time = time.time()
+            bfs_solver(init_cube)
+            cpu_time_bfs = time.time() - start_time
+            nodes_expanded_bfs = nodes_expanded
+            queue_size_bfs = priority_queue_size
+            print(f"Cube {i + 1} - BFS: Nodes Expanded: {nodes_expanded_bfs}, CPU Time: {cpu_time_bfs:.4f} sec, Queue Size: {queue_size_bfs}")
+
+            # IDDFS
+            reset_metrics()
+            start_time = time.time()
+            iddfs_solver(init_cube)
+            cpu_time_iddfs = time.time() - start_time
+            nodes_expanded_iddfs = nodes_expanded
+            print(f"Cube {i + 1} - IDDFS: Nodes Expanded: {nodes_expanded_iddfs}, CPU Time: {cpu_time_iddfs:.4f} sec")
+
+            # IDA*
+            reset_metrics()
+            start_time = time.time()
+            ida_star_solver(init_cube)
+            cpu_time_ida = time.time() - start_time
+            nodes_expanded_ida = nodes_expanded
+            queue_size_ida = priority_queue_size
+            print(f"Cube {i + 1} - IDA*: Nodes Expanded: {nodes_expanded_ida}, CPU Time: {cpu_time_ida:.4f} sec, Queue Size: {queue_size_ida}")
+
+experiment()
 
 '''def main():
     init_cube = Cube()
