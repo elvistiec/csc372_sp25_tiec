@@ -1,0 +1,1183 @@
+
+Running experiment for k=1 random turns
+Cube 1 - BFS: Nodes Expanded: 4, CPU Time: 0.0001 sec, Queue Size: 12
+Cube 1 - IDDFS: Nodes Expanded: 3, CPU Time: 0.0000 sec
+Cube 1 - IDA*: Nodes Expanded: 3, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 19
+Cube 2 - IDDFS: Nodes Expanded: 5, CPU Time: 0.0000 sec
+Cube 2 - IDA*: Nodes Expanded: 5, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 7, CPU Time: 0.0002 sec, Queue Size: 23
+Cube 3 - IDDFS: Nodes Expanded: 6, CPU Time: 0.0000 sec
+Cube 3 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 7, CPU Time: 0.0002 sec, Queue Size: 23
+Cube 4 - IDDFS: Nodes Expanded: 6, CPU Time: 0.0000 sec
+Cube 4 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 3, CPU Time: 0.0001 sec, Queue Size: 9
+Cube 5 - IDDFS: Nodes Expanded: 2, CPU Time: 0.0000 sec
+Cube 5 - IDA*: Nodes Expanded: 2, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 7, CPU Time: 0.0005 sec, Queue Size: 23
+Cube 6 - IDDFS: Nodes Expanded: 6, CPU Time: 0.0001 sec
+Cube 6 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 5, CPU Time: 0.0004 sec, Queue Size: 16
+Cube 7 - IDDFS: Nodes Expanded: 4, CPU Time: 0.0000 sec
+Cube 7 - IDA*: Nodes Expanded: 4, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 7, CPU Time: 0.0002 sec, Queue Size: 23
+Cube 8 - IDDFS: Nodes Expanded: 6, CPU Time: 0.0000 sec
+Cube 8 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 3, CPU Time: 0.0001 sec, Queue Size: 9
+Cube 9 - IDDFS: Nodes Expanded: 2, CPU Time: 0.0000 sec
+Cube 9 - IDA*: Nodes Expanded: 2, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 4, CPU Time: 0.0001 sec, Queue Size: 12
+Cube 10 - IDDFS: Nodes Expanded: 3, CPU Time: 0.0000 sec
+Cube 10 - IDA*: Nodes Expanded: 3, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 2, CPU Time: 0.0000 sec, Queue Size: 5
+Cube 11 - IDDFS: Nodes Expanded: 1, CPU Time: 0.0000 sec
+Cube 11 - IDA*: Nodes Expanded: 1, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 19
+Cube 12 - IDDFS: Nodes Expanded: 5, CPU Time: 0.0000 sec
+Cube 12 - IDA*: Nodes Expanded: 5, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 3, CPU Time: 0.0001 sec, Queue Size: 9
+Cube 13 - IDDFS: Nodes Expanded: 2, CPU Time: 0.0000 sec
+Cube 13 - IDA*: Nodes Expanded: 2, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 7, CPU Time: 0.0002 sec, Queue Size: 23
+Cube 14 - IDDFS: Nodes Expanded: 6, CPU Time: 0.0000 sec
+Cube 14 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 2, CPU Time: 0.0000 sec, Queue Size: 5
+Cube 15 - IDDFS: Nodes Expanded: 1, CPU Time: 0.0000 sec
+Cube 15 - IDA*: Nodes Expanded: 1, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 6, CPU Time: 0.0003 sec, Queue Size: 19
+Cube 16 - IDDFS: Nodes Expanded: 5, CPU Time: 0.0001 sec
+Cube 16 - IDA*: Nodes Expanded: 5, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 2, CPU Time: 0.0000 sec, Queue Size: 5
+Cube 17 - IDDFS: Nodes Expanded: 1, CPU Time: 0.0000 sec
+Cube 17 - IDA*: Nodes Expanded: 1, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 19
+Cube 18 - IDDFS: Nodes Expanded: 5, CPU Time: 0.0000 sec
+Cube 18 - IDA*: Nodes Expanded: 5, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 2, CPU Time: 0.0000 sec, Queue Size: 5
+Cube 19 - IDDFS: Nodes Expanded: 1, CPU Time: 0.0000 sec
+Cube 19 - IDA*: Nodes Expanded: 1, CPU Time: 0.0000 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 5, CPU Time: 0.0001 sec, Queue Size: 16
+Cube 20 - IDDFS: Nodes Expanded: 4, CPU Time: 0.0000 sec
+Cube 20 - IDA*: Nodes Expanded: 4, CPU Time: 0.0000 sec, Queue Size: 0
+
+Running experiment for k=2 random turns
+Cube 1 - BFS: Nodes Expanded: 8, CPU Time: 0.0002 sec, Queue Size: 26
+Cube 1 - IDDFS: Nodes Expanded: 8, CPU Time: 0.0001 sec
+Cube 1 - IDA*: Nodes Expanded: 8, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 27, CPU Time: 0.0008 sec, Queue Size: 92
+Cube 2 - IDDFS: Nodes Expanded: 37, CPU Time: 0.0002 sec
+Cube 2 - IDA*: Nodes Expanded: 242, CPU Time: 0.0016 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 17, CPU Time: 0.0004 sec, Queue Size: 57
+Cube 3 - IDDFS: Nodes Expanded: 22, CPU Time: 0.0001 sec
+Cube 3 - IDA*: Nodes Expanded: 346, CPU Time: 0.0022 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 18, CPU Time: 0.0004 sec, Queue Size: 61
+Cube 4 - IDDFS: Nodes Expanded: 23, CPU Time: 0.0001 sec
+Cube 4 - IDA*: Nodes Expanded: 678, CPU Time: 0.0045 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 30, CPU Time: 0.0008 sec, Queue Size: 102
+Cube 5 - IDDFS: Nodes Expanded: 40, CPU Time: 0.0002 sec
+Cube 5 - IDA*: Nodes Expanded: 16, CPU Time: 0.0002 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 8, CPU Time: 0.0002 sec, Queue Size: 26
+Cube 6 - IDDFS: Nodes Expanded: 8, CPU Time: 0.0000 sec
+Cube 6 - IDA*: Nodes Expanded: 8, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 21, CPU Time: 0.0005 sec, Queue Size: 71
+Cube 7 - IDDFS: Nodes Expanded: 27, CPU Time: 0.0002 sec
+Cube 7 - IDA*: Nodes Expanded: 18, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 13, CPU Time: 0.0003 sec, Queue Size: 43
+Cube 8 - IDDFS: Nodes Expanded: 17, CPU Time: 0.0001 sec
+Cube 8 - IDA*: Nodes Expanded: 5, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 14, CPU Time: 0.0003 sec, Queue Size: 47
+Cube 9 - IDDFS: Nodes Expanded: 18, CPU Time: 0.0001 sec
+Cube 9 - IDA*: Nodes Expanded: 11, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 16, CPU Time: 0.0004 sec, Queue Size: 54
+Cube 10 - IDDFS: Nodes Expanded: 20, CPU Time: 0.0001 sec
+Cube 10 - IDA*: Nodes Expanded: 17, CPU Time: 0.0002 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 30, CPU Time: 0.0009 sec, Queue Size: 102
+Cube 11 - IDDFS: Nodes Expanded: 40, CPU Time: 0.0002 sec
+Cube 11 - IDA*: Nodes Expanded: 16, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 26, CPU Time: 0.0008 sec, Queue Size: 88
+Cube 12 - IDDFS: Nodes Expanded: 36, CPU Time: 0.0002 sec
+Cube 12 - IDA*: Nodes Expanded: 690, CPU Time: 0.0058 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 16, CPU Time: 0.0004 sec, Queue Size: 54
+Cube 13 - IDDFS: Nodes Expanded: 20, CPU Time: 0.0001 sec
+Cube 13 - IDA*: Nodes Expanded: 17, CPU Time: 0.0002 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 22, CPU Time: 0.0005 sec, Queue Size: 74
+Cube 14 - IDDFS: Nodes Expanded: 29, CPU Time: 0.0001 sec
+Cube 14 - IDA*: Nodes Expanded: 239, CPU Time: 0.0016 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 30, CPU Time: 0.0008 sec, Queue Size: 102
+Cube 15 - IDDFS: Nodes Expanded: 40, CPU Time: 0.0003 sec
+Cube 15 - IDA*: Nodes Expanded: 16, CPU Time: 0.0002 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 19, CPU Time: 0.0006 sec, Queue Size: 64
+Cube 16 - IDDFS: Nodes Expanded: 24, CPU Time: 0.0001 sec
+Cube 16 - IDA*: Nodes Expanded: 12, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 34, CPU Time: 0.0024 sec, Queue Size: 116
+Cube 17 - IDDFS: Nodes Expanded: 46, CPU Time: 0.0003 sec
+Cube 17 - IDA*: Nodes Expanded: 699, CPU Time: 0.0047 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 29, CPU Time: 0.0007 sec, Queue Size: 99
+Cube 18 - IDDFS: Nodes Expanded: 39, CPU Time: 0.0002 sec
+Cube 18 - IDA*: Nodes Expanded: 686, CPU Time: 0.0045 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 23, CPU Time: 0.0005 sec, Queue Size: 78
+Cube 19 - IDDFS: Nodes Expanded: 30, CPU Time: 0.0001 sec
+Cube 19 - IDA*: Nodes Expanded: 691, CPU Time: 0.0063 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 15, CPU Time: 0.0005 sec, Queue Size: 50
+Cube 20 - IDDFS: Nodes Expanded: 19, CPU Time: 0.0002 sec
+Cube 20 - IDA*: Nodes Expanded: 7, CPU Time: 0.0001 sec, Queue Size: 0
+
+Running experiment for k=3 random turns
+Cube 1 - BFS: Nodes Expanded: 52, CPU Time: 0.0017 sec, Queue Size: 178
+Cube 1 - IDDFS: Nodes Expanded: 77, CPU Time: 0.0003 sec
+Cube 1 - IDA*: Nodes Expanded: 11, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 69, CPU Time: 0.0019 sec, Queue Size: 237
+Cube 2 - IDDFS: Nodes Expanded: 107, CPU Time: 0.0004 sec
+Cube 2 - IDA*: Nodes Expanded: 1445, CPU Time: 0.0100 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 113, CPU Time: 0.0037 sec, Queue Size: 388
+Cube 3 - IDDFS: Nodes Expanded: 181, CPU Time: 0.0008 sec
+Cube 3 - IDA*: Nodes Expanded: 1543, CPU Time: 0.0128 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 36, CPU Time: 0.0011 sec, Queue Size: 123
+Cube 4 - IDDFS: Nodes Expanded: 54, CPU Time: 0.0002 sec
+Cube 4 - IDA*: Nodes Expanded: 71, CPU Time: 0.0005 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 7, CPU Time: 0.0001 sec, Queue Size: 23
+Cube 5 - IDDFS: Nodes Expanded: 6, CPU Time: 0.0000 sec
+Cube 5 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 85, CPU Time: 0.0022 sec, Queue Size: 292
+Cube 6 - IDDFS: Nodes Expanded: 134, CPU Time: 0.0006 sec
+Cube 6 - IDA*: Nodes Expanded: 1161, CPU Time: 0.0078 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 50, CPU Time: 0.0016 sec, Queue Size: 171
+Cube 7 - IDDFS: Nodes Expanded: 75, CPU Time: 0.0003 sec
+Cube 7 - IDA*: Nodes Expanded: 826, CPU Time: 0.0054 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 75, CPU Time: 0.0030 sec, Queue Size: 257
+Cube 8 - IDDFS: Nodes Expanded: 119, CPU Time: 0.0005 sec
+Cube 8 - IDA*: Nodes Expanded: 5, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 55, CPU Time: 0.0012 sec, Queue Size: 188
+Cube 9 - IDDFS: Nodes Expanded: 82, CPU Time: 0.0003 sec
+Cube 9 - IDA*: Nodes Expanded: 557, CPU Time: 0.0036 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 134, CPU Time: 0.0044 sec, Queue Size: 461
+Cube 10 - IDDFS: Nodes Expanded: 216, CPU Time: 0.0011 sec
+Cube 10 - IDA*: Nodes Expanded: 463, CPU Time: 0.0031 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 47, CPU Time: 0.0014 sec, Queue Size: 161
+Cube 11 - IDDFS: Nodes Expanded: 71, CPU Time: 0.0003 sec
+Cube 11 - IDA*: Nodes Expanded: 25, CPU Time: 0.0002 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 39, CPU Time: 0.0009 sec, Queue Size: 133
+Cube 12 - IDDFS: Nodes Expanded: 59, CPU Time: 0.0002 sec
+Cube 12 - IDA*: Nodes Expanded: 731, CPU Time: 0.0047 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 134, CPU Time: 0.0049 sec, Queue Size: 461
+Cube 13 - IDDFS: Nodes Expanded: 216, CPU Time: 0.0009 sec
+Cube 13 - IDA*: Nodes Expanded: 463, CPU Time: 0.0035 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 39, CPU Time: 0.0010 sec, Queue Size: 133
+Cube 14 - IDDFS: Nodes Expanded: 59, CPU Time: 0.0002 sec
+Cube 14 - IDA*: Nodes Expanded: 731, CPU Time: 0.0047 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 135, CPU Time: 0.0046 sec, Queue Size: 464
+Cube 15 - IDDFS: Nodes Expanded: 217, CPU Time: 0.0009 sec
+Cube 15 - IDA*: Nodes Expanded: 571, CPU Time: 0.0037 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 36, CPU Time: 0.0009 sec, Queue Size: 123
+Cube 16 - IDDFS: Nodes Expanded: 54, CPU Time: 0.0002 sec
+Cube 16 - IDA*: Nodes Expanded: 71, CPU Time: 0.0005 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 116, CPU Time: 0.0032 sec, Queue Size: 398
+Cube 17 - IDDFS: Nodes Expanded: 189, CPU Time: 0.0008 sec
+Cube 17 - IDA*: Nodes Expanded: 18966, CPU Time: 0.1330 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 97, CPU Time: 0.0025 sec, Queue Size: 333
+Cube 18 - IDDFS: Nodes Expanded: 156, CPU Time: 0.0006 sec
+Cube 18 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 108, CPU Time: 0.0036 sec, Queue Size: 371
+Cube 19 - IDDFS: Nodes Expanded: 174, CPU Time: 0.0007 sec
+Cube 19 - IDA*: Nodes Expanded: 2262, CPU Time: 0.0153 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 140, CPU Time: 0.0043 sec, Queue Size: 481
+Cube 20 - IDDFS: Nodes Expanded: 228, CPU Time: 0.0010 sec
+Cube 20 - IDA*: Nodes Expanded: 4992, CPU Time: 0.0344 sec, Queue Size: 0
+
+Running experiment for k=4 random turns
+Cube 1 - BFS: Nodes Expanded: 493, CPU Time: 0.0164 sec, Queue Size: 1667
+Cube 1 - IDDFS: Nodes Expanded: 4697, CPU Time: 0.0190 sec
+Cube 1 - IDA*: Nodes Expanded: 201, CPU Time: 0.0013 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 331, CPU Time: 0.0104 sec, Queue Size: 1140
+Cube 2 - IDDFS: Nodes Expanded: 2490, CPU Time: 0.0101 sec
+Cube 2 - IDA*: Nodes Expanded: 16481, CPU Time: 0.1113 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 411, CPU Time: 0.0135 sec, Queue Size: 1398
+Cube 3 - IDDFS: Nodes Expanded: 568, CPU Time: 0.0022 sec
+Cube 3 - IDA*: Nodes Expanded: 658, CPU Time: 0.0043 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 225, CPU Time: 0.0074 sec, Queue Size: 774
+Cube 4 - IDDFS: Nodes Expanded: 380, CPU Time: 0.0015 sec
+Cube 4 - IDA*: Nodes Expanded: 4076, CPU Time: 0.0270 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 257, CPU Time: 0.0080 sec, Queue Size: 885
+Cube 5 - IDDFS: Nodes Expanded: 2365, CPU Time: 0.0094 sec
+Cube 5 - IDA*: Nodes Expanded: 12408, CPU Time: 0.0842 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 10, CPU Time: 0.0003 sec, Queue Size: 33
+Cube 6 - IDDFS: Nodes Expanded: 11, CPU Time: 0.0001 sec
+Cube 6 - IDA*: Nodes Expanded: 10, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 327, CPU Time: 0.0095 sec, Queue Size: 1126
+Cube 7 - IDDFS: Nodes Expanded: 2483, CPU Time: 0.0101 sec
+Cube 7 - IDA*: Nodes Expanded: 15502, CPU Time: 0.0967 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 495, CPU Time: 0.0139 sec, Queue Size: 1674
+Cube 8 - IDDFS: Nodes Expanded: 4700, CPU Time: 0.0173 sec
+Cube 8 - IDA*: Nodes Expanded: 11309, CPU Time: 0.0723 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 606, CPU Time: 0.0174 sec, Queue Size: 2009
+Cube 9 - IDDFS: Nodes Expanded: 766, CPU Time: 0.0031 sec
+Cube 9 - IDA*: Nodes Expanded: 24008, CPU Time: 0.1530 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 686, CPU Time: 0.0216 sec, Queue Size: 2250
+Cube 10 - IDDFS: Nodes Expanded: 6903, CPU Time: 0.0258 sec
+Cube 10 - IDA*: Nodes Expanded: 55876, CPU Time: 0.3577 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 603, CPU Time: 0.0185 sec, Queue Size: 1998
+Cube 11 - IDDFS: Nodes Expanded: 762, CPU Time: 0.0031 sec
+Cube 11 - IDA*: Nodes Expanded: 6522, CPU Time: 0.0433 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 484, CPU Time: 0.0149 sec, Queue Size: 1636
+Cube 12 - IDDFS: Nodes Expanded: 4679, CPU Time: 0.0186 sec
+Cube 12 - IDA*: Nodes Expanded: 8397, CPU Time: 0.0553 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 354, CPU Time: 0.0108 sec, Queue Size: 1213
+Cube 13 - IDDFS: Nodes Expanded: 464, CPU Time: 0.0018 sec
+Cube 13 - IDA*: Nodes Expanded: 16058, CPU Time: 0.1053 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 433, CPU Time: 0.0128 sec, Queue Size: 1472
+Cube 14 - IDDFS: Nodes Expanded: 4594, CPU Time: 0.0182 sec
+Cube 14 - IDA*: Nodes Expanded: 11, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 659, CPU Time: 0.0207 sec, Queue Size: 2170
+Cube 15 - IDDFS: Nodes Expanded: 6857, CPU Time: 0.0273 sec
+Cube 15 - IDA*: Nodes Expanded: 3957, CPU Time: 0.0261 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 419, CPU Time: 0.0126 sec, Queue Size: 1426
+Cube 16 - IDDFS: Nodes Expanded: 585, CPU Time: 0.0024 sec
+Cube 16 - IDA*: Nodes Expanded: 3861, CPU Time: 0.0255 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 633, CPU Time: 0.0314 sec, Queue Size: 2097
+Cube 17 - IDDFS: Nodes Expanded: 6815, CPU Time: 0.0356 sec
+Cube 17 - IDA*: Nodes Expanded: 15, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 277, CPU Time: 0.0088 sec, Queue Size: 954
+Cube 18 - IDDFS: Nodes Expanded: 2400, CPU Time: 0.0097 sec
+Cube 18 - IDA*: Nodes Expanded: 1972, CPU Time: 0.0134 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 492, CPU Time: 0.0172 sec, Queue Size: 1664
+Cube 19 - IDDFS: Nodes Expanded: 4691, CPU Time: 0.0191 sec
+Cube 19 - IDA*: Nodes Expanded: 1697, CPU Time: 0.0118 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 233, CPU Time: 0.0070 sec, Queue Size: 802
+Cube 20 - IDDFS: Nodes Expanded: 392, CPU Time: 0.0015 sec
+Cube 20 - IDA*: Nodes Expanded: 1982, CPU Time: 0.0136 sec, Queue Size: 0
+
+Running experiment for k=5 random turns
+Cube 1 - BFS: Nodes Expanded: 1892, CPU Time: 0.0641 sec, Queue Size: 5964
+Cube 1 - IDDFS: Nodes Expanded: 15680, CPU Time: 0.0642 sec
+Cube 1 - IDA*: Nodes Expanded: 11279, CPU Time: 0.0761 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 1365, CPU Time: 0.0452 sec, Queue Size: 4365
+Cube 2 - IDDFS: Nodes Expanded: 7202, CPU Time: 0.0289 sec
+Cube 2 - IDA*: Nodes Expanded: 4666, CPU Time: 0.0304 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 98, CPU Time: 0.0029 sec, Queue Size: 336
+Cube 3 - IDDFS: Nodes Expanded: 158, CPU Time: 0.0006 sec
+Cube 3 - IDA*: Nodes Expanded: 7736, CPU Time: 0.0517 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 1625, CPU Time: 0.0732 sec, Queue Size: 5171
+Cube 4 - IDDFS: Nodes Expanded: 11435, CPU Time: 0.0492 sec
+Cube 4 - IDA*: Nodes Expanded: 36056, CPU Time: 0.2303 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 1031, CPU Time: 0.0328 sec, Queue Size: 3355
+Cube 5 - IDDFS: Nodes Expanded: 1272, CPU Time: 0.0050 sec
+Cube 5 - IDA*: Nodes Expanded: 12387, CPU Time: 0.0838 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 1649, CPU Time: 0.0721 sec, Queue Size: 5249
+Cube 6 - IDDFS: Nodes Expanded: 1487, CPU Time: 0.0090 sec
+Cube 6 - IDA*: Nodes Expanded: 4145, CPU Time: 0.0306 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 1806, CPU Time: 0.0722 sec, Queue Size: 5709
+Cube 7 - IDDFS: Nodes Expanded: 1800, CPU Time: 0.0087 sec
+Cube 7 - IDA*: Nodes Expanded: 6757, CPU Time: 0.0516 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 1663, CPU Time: 0.0588 sec, Queue Size: 5291
+Cube 8 - IDDFS: Nodes Expanded: 1508, CPU Time: 0.0065 sec
+Cube 8 - IDA*: Nodes Expanded: 3831, CPU Time: 0.0261 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 1723, CPU Time: 0.0625 sec, Queue Size: 5474
+Cube 9 - IDDFS: Nodes Expanded: 1640, CPU Time: 0.0068 sec
+Cube 9 - IDA*: Nodes Expanded: 57140, CPU Time: 0.3848 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 2325, CPU Time: 0.0801 sec, Queue Size: 7223
+Cube 10 - IDDFS: Nodes Expanded: 15718, CPU Time: 0.0637 sec
+Cube 10 - IDA*: Nodes Expanded: 1474, CPU Time: 0.0095 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 1729, CPU Time: 0.0514 sec, Queue Size: 5492
+Cube 11 - IDDFS: Nodes Expanded: 1657, CPU Time: 0.0062 sec
+Cube 11 - IDA*: Nodes Expanded: 17629, CPU Time: 0.1078 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 2813, CPU Time: 0.0942 sec, Queue Size: 8617
+Cube 12 - IDDFS: Nodes Expanded: 19892, CPU Time: 0.0800 sec
+Cube 12 - IDA*: Nodes Expanded: 9486, CPU Time: 0.0631 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 2115, CPU Time: 0.0671 sec, Queue Size: 6618
+Cube 13 - IDDFS: Nodes Expanded: 13598, CPU Time: 0.0508 sec
+Cube 13 - IDA*: Nodes Expanded: 8232, CPU Time: 0.0507 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 97, CPU Time: 0.0027 sec, Queue Size: 333
+Cube 14 - IDDFS: Nodes Expanded: 156, CPU Time: 0.0006 sec
+Cube 14 - IDA*: Nodes Expanded: 6, CPU Time: 0.0001 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 1306, CPU Time: 0.0434 sec, Queue Size: 4206
+Cube 15 - IDDFS: Nodes Expanded: 7102, CPU Time: 0.0285 sec
+Cube 15 - IDA*: Nodes Expanded: 17520, CPU Time: 0.1137 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 2161, CPU Time: 0.0712 sec, Queue Size: 6752
+Cube 16 - IDDFS: Nodes Expanded: 92638, CPU Time: 0.3720 sec
+Cube 16 - IDA*: Nodes Expanded: 411, CPU Time: 0.0026 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 1945, CPU Time: 0.0565 sec, Queue Size: 6118
+Cube 17 - IDDFS: Nodes Expanded: 13442, CPU Time: 0.0498 sec
+Cube 17 - IDA*: Nodes Expanded: 27804, CPU Time: 0.1753 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 1384, CPU Time: 0.0440 sec, Queue Size: 4424
+Cube 18 - IDDFS: Nodes Expanded: 7235, CPU Time: 0.0290 sec
+Cube 18 - IDA*: Nodes Expanded: 107749, CPU Time: 0.6981 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 1664, CPU Time: 0.0567 sec, Queue Size: 5294
+Cube 19 - IDDFS: Nodes Expanded: 1509, CPU Time: 0.0059 sec
+Cube 19 - IDA*: Nodes Expanded: 37873, CPU Time: 0.2527 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 1568, CPU Time: 0.0506 sec, Queue Size: 4983
+Cube 20 - IDDFS: Nodes Expanded: 1473, CPU Time: 0.0058 sec
+Cube 20 - IDA*: Nodes Expanded: 25734, CPU Time: 0.1713 sec, Queue Size: 0
+
+Running experiment for k=6 random turns
+Cube 1 - BFS: Nodes Expanded: 224, CPU Time: 0.0069 sec, Queue Size: 771
+Cube 1 - IDDFS: Nodes Expanded: 378, CPU Time: 0.0017 sec
+Cube 1 - IDA*: Nodes Expanded: 205, CPU Time: 0.0014 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 7848, CPU Time: 0.3109 sec, Queue Size: 22744
+Cube 2 - IDDFS: Nodes Expanded: 344950, CPU Time: 1.4893 sec
+Cube 2 - IDA*: Nodes Expanded: 49577, CPU Time: 0.3336 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 6683, CPU Time: 0.2874 sec, Queue Size: 19621
+Cube 3 - IDDFS: Nodes Expanded: 4499, CPU Time: 0.0177 sec
+Cube 3 - IDA*: Nodes Expanded: 275763, CPU Time: 1.8363 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 6088, CPU Time: 0.2373 sec, Queue Size: 17993
+Cube 4 - IDDFS: Nodes Expanded: 4938, CPU Time: 0.0212 sec
+Cube 4 - IDA*: Nodes Expanded: 78256, CPU Time: 0.5263 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 11213, CPU Time: 0.4369 sec, Queue Size: 31363
+Cube 5 - IDDFS: Nodes Expanded: 22259, CPU Time: 0.0951 sec
+Cube 5 - IDA*: Nodes Expanded: 119989, CPU Time: 0.7804 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 11314, CPU Time: 0.4845 sec, Queue Size: 31597
+Cube 6 - IDDFS: Nodes Expanded: 21258, CPU Time: 0.0859 sec
+Cube 6 - IDA*: Nodes Expanded: 239462, CPU Time: 1.5165 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 6024, CPU Time: 0.2129 sec, Queue Size: 17830
+Cube 7 - IDDFS: Nodes Expanded: 380619, CPU Time: 1.4861 sec
+Cube 7 - IDA*: Nodes Expanded: 15623, CPU Time: 0.1005 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 8203, CPU Time: 0.2708 sec, Queue Size: 23708
+Cube 8 - IDDFS: Nodes Expanded: 38455, CPU Time: 0.1546 sec
+Cube 8 - IDA*: Nodes Expanded: 11343, CPU Time: 0.0704 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 7124, CPU Time: 0.2411 sec, Queue Size: 20825
+Cube 9 - IDDFS: Nodes Expanded: 4854, CPU Time: 0.0186 sec
+Cube 9 - IDA*: Nodes Expanded: 8603, CPU Time: 0.0537 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 7497, CPU Time: 0.2827 sec, Queue Size: 21806
+Cube 10 - IDDFS: Nodes Expanded: 5251, CPU Time: 0.0221 sec
+Cube 10 - IDA*: Nodes Expanded: 17274, CPU Time: 0.1106 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 3457, CPU Time: 0.1066 sec, Queue Size: 10541
+Cube 11 - IDDFS: Nodes Expanded: 24204, CPU Time: 0.0952 sec
+Cube 11 - IDA*: Nodes Expanded: 7643, CPU Time: 0.0501 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 666, CPU Time: 0.0203 sec, Queue Size: 2192
+Cube 12 - IDDFS: Nodes Expanded: 6868, CPU Time: 0.0280 sec
+Cube 12 - IDA*: Nodes Expanded: 775, CPU Time: 0.0054 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 3361, CPU Time: 0.1053 sec, Queue Size: 10229
+Cube 13 - IDDFS: Nodes Expanded: 2968, CPU Time: 0.0118 sec
+Cube 13 - IDA*: Nodes Expanded: 2020504, CPU Time: 13.2956 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 10362, CPU Time: 0.3784 sec, Queue Size: 29216
+Cube 14 - IDDFS: Nodes Expanded: 50540, CPU Time: 0.2199 sec
+Cube 14 - IDA*: Nodes Expanded: 61161, CPU Time: 0.4135 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 6024, CPU Time: 0.2178 sec, Queue Size: 17830
+Cube 15 - IDDFS: Nodes Expanded: 380619, CPU Time: 1.6332 sec
+Cube 15 - IDA*: Nodes Expanded: 15623, CPU Time: 0.1081 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 2962, CPU Time: 0.0927 sec, Queue Size: 9018
+Cube 16 - IDDFS: Nodes Expanded: 2524, CPU Time: 0.0099 sec
+Cube 16 - IDA*: Nodes Expanded: 23677, CPU Time: 0.1524 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 3185, CPU Time: 0.1059 sec, Queue Size: 9694
+Cube 17 - IDDFS: Nodes Expanded: 2779, CPU Time: 0.0107 sec
+Cube 17 - IDA*: Nodes Expanded: 5884, CPU Time: 0.0384 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 5944, CPU Time: 0.2006 sec, Queue Size: 17604
+Cube 18 - IDDFS: Nodes Expanded: 5807, CPU Time: 0.0228 sec
+Cube 18 - IDA*: Nodes Expanded: 35057, CPU Time: 0.2397 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 5662, CPU Time: 0.1977 sec, Queue Size: 16854
+Cube 19 - IDDFS: Nodes Expanded: 20739, CPU Time: 0.0865 sec
+Cube 19 - IDA*: Nodes Expanded: 134511, CPU Time: 0.8924 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 8020, CPU Time: 0.2993 sec, Queue Size: 23201
+Cube 20 - IDDFS: Nodes Expanded: 305073, CPU Time: 1.3033 sec
+Cube 20 - IDA*: Nodes Expanded: 1081277, CPU Time: 7.1687 sec, Queue Size: 0
+
+Running experiment for k=7 random turns
+Cube 1 - BFS: Nodes Expanded: 150, CPU Time: 0.0044 sec, Queue Size: 516
+Cube 1 - IDDFS: Nodes Expanded: 243, CPU Time: 0.0010 sec
+Cube 1 - IDA*: Nodes Expanded: 690, CPU Time: 0.0046 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 22305, CPU Time: 1.0086 sec, Queue Size: 60287
+Cube 2 - IDDFS: Nodes Expanded: 162550, CPU Time: 0.6839 sec
+Cube 2 - IDA*: Nodes Expanded: 412205, CPU Time: 2.5915 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 2543, CPU Time: 0.0948 sec, Queue Size: 7858
+Cube 3 - IDDFS: Nodes Expanded: 18014, CPU Time: 0.0713 sec
+Cube 3 - IDA*: Nodes Expanded: 7095, CPU Time: 0.0601 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 20647, CPU Time: 0.9087 sec, Queue Size: 56065
+Cube 4 - IDDFS: Nodes Expanded: 12058, CPU Time: 0.0496 sec
+Cube 4 - IDA*: Nodes Expanded: 392306, CPU Time: 2.4492 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 21051, CPU Time: 0.8843 sec, Queue Size: 57129
+Cube 5 - IDDFS: Nodes Expanded: 92541, CPU Time: 0.3570 sec
+Cube 5 - IDA*: Nodes Expanded: 14416, CPU Time: 0.0897 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 21934, CPU Time: 0.9970 sec, Queue Size: 59349
+Cube 6 - IDDFS: Nodes Expanded: 57531, CPU Time: 0.2284 sec
+Cube 6 - IDA*: Nodes Expanded: 100676, CPU Time: 0.6325 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 28183, CPU Time: 1.2271 sec, Queue Size: 75040
+Cube 7 - IDDFS: Nodes Expanded: 117976, CPU Time: 0.4614 sec
+Cube 7 - IDA*: Nodes Expanded: 856153, CPU Time: 5.5872 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 25573, CPU Time: 1.2068 sec, Queue Size: 68425
+Cube 8 - IDDFS: Nodes Expanded: 12818, CPU Time: 0.0733 sec
+Cube 8 - IDA*: Nodes Expanded: 3105607, CPU Time: 20.7273 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 33160, CPU Time: 1.6398 sec, Queue Size: 86928
+Cube 9 - IDDFS: Nodes Expanded: 112941, CPU Time: 0.4752 sec
+Cube 9 - IDA*: Nodes Expanded: 23530, CPU Time: 0.1514 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 2061, CPU Time: 0.0689 sec, Queue Size: 6469
+Cube 10 - IDDFS: Nodes Expanded: 15752, CPU Time: 0.0644 sec
+Cube 10 - IDA*: Nodes Expanded: 115496, CPU Time: 0.7614 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 12788, CPU Time: 0.4970 sec, Queue Size: 35555
+Cube 11 - IDDFS: Nodes Expanded: 63399, CPU Time: 0.2692 sec
+Cube 11 - IDA*: Nodes Expanded: 2826356, CPU Time: 18.2614 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 1644, CPU Time: 0.0473 sec, Queue Size: 5234
+Cube 12 - IDDFS: Nodes Expanded: 11469, CPU Time: 0.0435 sec
+Cube 12 - IDA*: Nodes Expanded: 23555, CPU Time: 0.1491 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 29510, CPU Time: 1.4387 sec, Queue Size: 78108
+Cube 13 - IDDFS: Nodes Expanded: 15547, CPU Time: 0.0646 sec
+Cube 13 - IDA*: Nodes Expanded: 387847, CPU Time: 2.5246 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 28144, CPU Time: 1.2923 sec, Queue Size: 74950
+Cube 14 - IDDFS: Nodes Expanded: 69989, CPU Time: 0.3132 sec
+Cube 14 - IDA*: Nodes Expanded: 103403, CPU Time: 0.6978 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 1776, CPU Time: 0.0618 sec, Queue Size: 5622
+Cube 15 - IDDFS: Nodes Expanded: 1746, CPU Time: 0.0069 sec
+Cube 15 - IDA*: Nodes Expanded: 14842, CPU Time: 0.0980 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 1800, CPU Time: 0.0575 sec, Queue Size: 5692
+Cube 16 - IDDFS: Nodes Expanded: 1786, CPU Time: 0.0070 sec
+Cube 16 - IDA*: Nodes Expanded: 37899, CPU Time: 0.2492 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 23441, CPU Time: 1.1244 sec, Queue Size: 63169
+Cube 17 - IDDFS: Nodes Expanded: 12419, CPU Time: 0.0524 sec
+Cube 17 - IDA*: Nodes Expanded: 260980, CPU Time: 1.6694 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 35509, CPU Time: 1.8555 sec, Queue Size: 92427
+Cube 18 - IDDFS: Nodes Expanded: 133005, CPU Time: 0.5522 sec
+Cube 18 - IDA*: Nodes Expanded: 161618, CPU Time: 1.0355 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 37358, CPU Time: 1.9066 sec, Queue Size: 96884
+Cube 19 - IDDFS: Nodes Expanded: 141695, CPU Time: 0.5870 sec
+Cube 19 - IDA*: Nodes Expanded: 87108, CPU Time: 0.5699 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 37060, CPU Time: 1.9084 sec, Queue Size: 96110
+Cube 20 - IDDFS: Nodes Expanded: 18421, CPU Time: 0.0823 sec
+Cube 20 - IDA*: Nodes Expanded: 39799, CPU Time: 0.2642 sec, Queue Size: 0
+
+Running experiment for k=8 random turns
+Cube 1 - BFS: Nodes Expanded: 102689, CPU Time: 6.2498 sec, Queue Size: 248131
+Cube 1 - IDDFS: Nodes Expanded: 117457, CPU Time: 0.5002 sec
+Cube 1 - IDA*: Nodes Expanded: 261109, CPU Time: 1.9625 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 3436, CPU Time: 0.1206 sec, Queue Size: 10470
+Cube 2 - IDDFS: Nodes Expanded: 24168, CPU Time: 0.1012 sec
+Cube 2 - IDA*: Nodes Expanded: 89105, CPU Time: 0.6004 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 152733, CPU Time: 9.5965 sec, Queue Size: 348646
+Cube 3 - IDDFS: Nodes Expanded: 380396, CPU Time: 1.6280 sec
+Cube 3 - IDA*: Nodes Expanded: 273988, CPU Time: 1.8961 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 6117, CPU Time: 0.2081 sec, Queue Size: 18065
+Cube 4 - IDDFS: Nodes Expanded: 173840, CPU Time: 0.7413 sec
+Cube 4 - IDA*: Nodes Expanded: 122112, CPU Time: 0.8088 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 5995, CPU Time: 0.1912 sec, Queue Size: 17750
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6540 sec
+Cube 5 - IDA*: Nodes Expanded: 17752, CPU Time: 0.1150 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 52244, CPU Time: 2.9660 sec, Queue Size: 132753
+Cube 6 - IDDFS: Nodes Expanded: 225914, CPU Time: 0.9149 sec
+Cube 6 - IDA*: Nodes Expanded: 786315, CPU Time: 5.0534 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 6900, CPU Time: 0.2251 sec, Queue Size: 20203
+Cube 7 - IDDFS: Nodes Expanded: 4423, CPU Time: 0.0187 sec
+Cube 7 - IDA*: Nodes Expanded: 35558, CPU Time: 0.2479 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 82882, CPU Time: 4.9874 sec, Queue Size: 204488
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5609 sec
+Cube 8 - IDA*: Nodes Expanded: 3624, CPU Time: 0.0244 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 4554, CPU Time: 0.1421 sec, Queue Size: 13729
+Cube 9 - IDDFS: Nodes Expanded: 55586, CPU Time: 0.2248 sec
+Cube 9 - IDA*: Nodes Expanded: 69612, CPU Time: 0.4388 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 98910, CPU Time: 5.7559 sec, Queue Size: 240028
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5807 sec
+Cube 10 - IDA*: Nodes Expanded: 20026353, CPU Time: 127.9479 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 6999, CPU Time: 0.2168 sec, Queue Size: 20481
+Cube 11 - IDDFS: Nodes Expanded: 36792, CPU Time: 0.1482 sec
+Cube 11 - IDA*: Nodes Expanded: 1156346, CPU Time: 7.2091 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 87645, CPU Time: 5.0098 sec, Queue Size: 215191
+Cube 12 - IDDFS: Nodes Expanded: 240024, CPU Time: 1.0433 sec
+Cube 12 - IDA*: Nodes Expanded: 9467119, CPU Time: 59.6975 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 62468, CPU Time: 3.3095 sec, Queue Size: 157162
+Cube 13 - IDDFS: Nodes Expanded: 244083, CPU Time: 0.9791 sec
+Cube 13 - IDA*: Nodes Expanded: 458094, CPU Time: 2.8408 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 57566, CPU Time: 3.0234 sec, Queue Size: 145732
+Cube 14 - IDDFS: Nodes Expanded: 219804, CPU Time: 0.8859 sec
+Cube 14 - IDA*: Nodes Expanded: 2402252, CPU Time: 14.7477 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 53645, CPU Time: 2.8291 sec, Queue Size: 136315
+Cube 15 - IDDFS: Nodes Expanded: 26466, CPU Time: 0.1179 sec
+Cube 15 - IDA*: Nodes Expanded: 1956260, CPU Time: 12.1825 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 72784, CPU Time: 4.0297 sec, Queue Size: 181088
+Cube 16 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5449 sec
+Cube 16 - IDA*: Nodes Expanded: 3957245, CPU Time: 24.2612 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 4600, CPU Time: 0.1448 sec, Queue Size: 13859
+Cube 17 - IDDFS: Nodes Expanded: 165502, CPU Time: 0.6464 sec
+Cube 17 - IDA*: Nodes Expanded: 40347, CPU Time: 0.2599 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 53690, CPU Time: 2.7469 sec, Queue Size: 136411
+Cube 18 - IDDFS: Nodes Expanded: 221558, CPU Time: 0.8872 sec
+Cube 18 - IDA*: Nodes Expanded: 100945, CPU Time: 0.6295 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 539, CPU Time: 0.0174 sec, Queue Size: 1802
+Cube 19 - IDDFS: Nodes Expanded: 655, CPU Time: 0.0025 sec
+Cube 19 - IDA*: Nodes Expanded: 10328, CPU Time: 0.0674 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 7220, CPU Time: 0.2576 sec, Queue Size: 21085
+Cube 20 - IDDFS: Nodes Expanded: 38932, CPU Time: 0.1542 sec
+Cube 20 - IDA*: Nodes Expanded: 20263, CPU Time: 0.1304 sec, Queue Size: 0
+
+Running experiment for k=9 random turns
+Cube 1 - BFS: Nodes Expanded: 253287, CPU Time: 14.4593 sec, Queue Size: 556255
+Cube 1 - IDDFS: Nodes Expanded: 122488, CPU Time: 0.4930 sec
+Cube 1 - IDA*: Nodes Expanded: 75547310, CPU Time: 745.5198 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 396518, CPU Time: 22.9031 sec, Queue Size: 788932
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5635 sec
+Cube 2 - IDA*: Nodes Expanded: 2667318, CPU Time: 16.8776 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 269861, CPU Time: 15.4308 sec, Queue Size: 587359
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5381 sec
+Cube 3 - IDA*: Nodes Expanded: 1242001, CPU Time: 7.7976 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 27549, CPU Time: 1.0080 sec, Queue Size: 73520
+Cube 4 - IDDFS: Nodes Expanded: 109695, CPU Time: 0.4390 sec
+Cube 4 - IDA*: Nodes Expanded: 189303, CPU Time: 1.2020 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 160338, CPU Time: 9.1148 sec, Queue Size: 363377
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5471 sec
+Cube 5 - IDA*: Nodes Expanded: 19191184, CPU Time: 121.8728 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 41334, CPU Time: 2.1427 sec, Queue Size: 106046
+Cube 6 - IDDFS: Nodes Expanded: 159774, CPU Time: 0.6712 sec
+Cube 6 - IDA*: Nodes Expanded: 42582, CPU Time: 0.2870 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 223151, CPU Time: 13.6556 sec, Queue Size: 498333
+Cube 7 - IDDFS: Nodes Expanded: 88642, CPU Time: 0.4043 sec
+Cube 7 - IDA*: Nodes Expanded: 631530, CPU Time: 4.4469 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 17395, CPU Time: 0.7286 sec, Queue Size: 47674
+Cube 8 - IDDFS: Nodes Expanded: 258263, CPU Time: 1.1397 sec
+Cube 8 - IDA*: Nodes Expanded: 60738, CPU Time: 0.4061 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 398212, CPU Time: 23.7373 sec, Queue Size: 791299
+Cube 9 - IDDFS: Nodes Expanded: 148659, CPU Time: 0.6164 sec
+Cube 9 - IDA*: Nodes Expanded: 1038043, CPU Time: 6.6168 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 415990, CPU Time: 23.4244 sec, Queue Size: 814866
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6313 sec
+Cube 10 - IDA*: Nodes Expanded: 531556, CPU Time: 3.4900 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 500052, CPU Time: 29.1731 sec, Queue Size: 911833
+Cube 11 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6645 sec
+Cube 11 - IDA*: Nodes Expanded: 1086942, CPU Time: 7.0716 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 41785, CPU Time: 1.9831 sec, Queue Size: 107118
+Cube 12 - IDDFS: Nodes Expanded: 124731, CPU Time: 0.5098 sec
+Cube 12 - IDA*: Nodes Expanded: 31828822, CPU Time: 216.0914 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 213757, CPU Time: 13.9172 sec, Queue Size: 479720
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.7681 sec
+Cube 13 - IDA*: Nodes Expanded: 1002715, CPU Time: 6.9471 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 391401, CPU Time: 25.9316 sec, Queue Size: 781864
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.7589 sec
+Cube 14 - IDA*: Nodes Expanded: 11564054, CPU Time: 80.2097 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 42700, CPU Time: 1.5130 sec, Queue Size: 109193
+Cube 15 - IDDFS: Nodes Expanded: 119664, CPU Time: 0.5548 sec
+Cube 15 - IDA*: Nodes Expanded: 152255, CPU Time: 1.0714 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 12858, CPU Time: 0.4831 sec, Queue Size: 35737
+Cube 16 - IDDFS: Nodes Expanded: 8097, CPU Time: 0.0350 sec
+Cube 16 - IDA*: Nodes Expanded: 1155, CPU Time: 0.0076 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 29321, CPU Time: 1.4750 sec, Queue Size: 77660
+Cube 17 - IDDFS: Nodes Expanded: 15265, CPU Time: 0.0721 sec
+Cube 17 - IDA*: Nodes Expanded: 602209, CPU Time: 4.1407 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 439287, CPU Time: 26.2774 sec, Queue Size: 844405
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6475 sec
+Cube 18 - IDA*: Nodes Expanded: 1089105, CPU Time: 7.2330 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 26963, CPU Time: 1.3134 sec, Queue Size: 72029
+Cube 19 - IDDFS: Nodes Expanded: 110801, CPU Time: 0.4701 sec
+Cube 19 - IDA*: Nodes Expanded: 12111, CPU Time: 0.0798 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 19415, CPU Time: 0.8473 sec, Queue Size: 52768
+Cube 20 - IDDFS: Nodes Expanded: 94903, CPU Time: 0.4009 sec
+Cube 20 - IDA*: Nodes Expanded: 929030, CPU Time: 6.3530 sec, Queue Size: 0
+
+Running experiment for k=10 random turns
+Cube 1 - BFS: Nodes Expanded: 538219, CPU Time: 32.0153 sec, Queue Size: 966019
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6485 sec
+Cube 1 - IDA*: Nodes Expanded: 38744567, CPU Time: 260.0618 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 1340468, CPU Time: 66.9134 sec, Queue Size: 1411992
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.7264 sec
+Cube 2 - IDA*: Nodes Expanded: 94682519, CPU Time: 641.5455 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 144571, CPU Time: 9.0134 sec, Queue Size: 333078
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6946 sec
+Cube 3 - IDA*: Nodes Expanded: 11989787, CPU Time: 80.5185 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 585448, CPU Time: 35.0705 sec, Queue Size: 1048211
+Cube 4 - IDDFS: Nodes Expanded: 201617, CPU Time: 0.8880 sec
+Cube 4 - IDA*: Nodes Expanded: 1023794, CPU Time: 7.0183 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 124160, CPU Time: 6.8186 sec, Queue Size: 292933
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6570 sec
+Cube 5 - IDA*: Nodes Expanded: 2709253, CPU Time: 18.0838 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 71255, CPU Time: 4.0035 sec, Queue Size: 177413
+Cube 6 - IDDFS: Nodes Expanded: 44938, CPU Time: 0.2006 sec
+Cube 6 - IDA*: Nodes Expanded: 2251227, CPU Time: 15.3525 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 819055, CPU Time: 46.6155 sec, Queue Size: 1341646
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6620 sec
+Cube 7 - IDA*: Nodes Expanded: 12956583, CPU Time: 83.3574 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 151640, CPU Time: 8.6248 sec, Queue Size: 346762
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6084 sec
+Cube 8 - IDA*: Nodes Expanded: 1830267, CPU Time: 12.0511 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 789249, CPU Time: 45.0986 sec, Queue Size: 1314160
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4906 sec
+Cube 9 - IDA*: Nodes Expanded: 81011724, CPU Time: 497.9499 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 949206, CPU Time: 46.3417 sec, Queue Size: 1425345
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5213 sec
+Cube 10 - IDA*: Nodes Expanded: 13421665, CPU Time: 84.4147 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 128196, CPU Time: 7.0360 sec, Queue Size: 300996
+Cube 11 - IDDFS: Nodes Expanded: 45745, CPU Time: 0.1879 sec
+Cube 11 - IDA*: Nodes Expanded: 2539392, CPU Time: 15.6828 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 787995, CPU Time: 41.3313 sec, Queue Size: 1313083
+Cube 12 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5598 sec
+Cube 12 - IDA*: Nodes Expanded: 97086891, CPU Time: 602.2744 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 713798, CPU Time: 40.3403 sec, Queue Size: 1233303
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5151 sec
+Cube 13 - IDA*: Nodes Expanded: 22261743, CPU Time: 149.4952 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 71444, CPU Time: 2.5366 sec, Queue Size: 177835
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5164 sec
+Cube 14 - IDA*: Nodes Expanded: 7052070, CPU Time: 44.5191 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 158943, CPU Time: 8.9014 sec, Queue Size: 360269
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5068 sec
+Cube 15 - IDA*: Nodes Expanded: 11407987, CPU Time: 69.8135 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 628147, CPU Time: 33.7119 sec, Queue Size: 1116578
+Cube 16 - IDDFS: Nodes Expanded: 248375, CPU Time: 0.9931 sec
+Cube 16 - IDA*: Nodes Expanded: 4897617, CPU Time: 30.3345 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 11427, CPU Time: 0.3425 sec, Queue Size: 31875
+Cube 17 - IDDFS: Nodes Expanded: 55424, CPU Time: 0.2175 sec
+Cube 17 - IDA*: Nodes Expanded: 4715, CPU Time: 0.0290 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 232, CPU Time: 0.0064 sec, Queue Size: 799
+Cube 18 - IDDFS: Nodes Expanded: 391, CPU Time: 0.0016 sec
+Cube 18 - IDA*: Nodes Expanded: 1178, CPU Time: 0.0074 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 1137410, CPU Time: 56.9318 sec, Queue Size: 1464373
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5067 sec
+Cube 19 - IDA*: Nodes Expanded: 105062775, CPU Time: 666.2753 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 1427452, CPU Time: 67.5022 sec, Queue Size: 1365500
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 3.2291 sec
+Cube 20 - IDA*: Nodes Expanded: 30194079, CPU Time: 396.7338 sec, Queue Size: 0
+
+Running experiment for k=11 random turns
+Cube 1 - BFS: Nodes Expanded: 2237208, CPU Time: 150.3693 sec, Queue Size: 1299571
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 3.1150 sec
+Cube 1 - IDA*: Nodes Expanded: 30770887, CPU Time: 277.9968 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 23673, CPU Time: 0.7298 sec, Queue Size: 63777
+Cube 2 - IDDFS: Nodes Expanded: 104018, CPU Time: 0.4161 sec
+Cube 2 - IDA*: Nodes Expanded: 1626422, CPU Time: 10.2059 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 2068056, CPU Time: 86.6285 sec, Queue Size: 1410176
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5691 sec
+Cube 3 - IDA*: Nodes Expanded: 27232065, CPU Time: 166.0099 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 421689, CPU Time: 23.6195 sec, Queue Size: 822083
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6229 sec
+Cube 4 - IDA*: Nodes Expanded: 2039023, CPU Time: 13.0471 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 43718, CPU Time: 2.2972 sec, Queue Size: 111485
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5236 sec
+Cube 5 - IDA*: Nodes Expanded: 733471, CPU Time: 4.5744 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 248381, CPU Time: 14.4983 sec, Queue Size: 546650
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5459 sec
+Cube 6 - IDA*: Nodes Expanded: 6706210, CPU Time: 41.4086 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 1794812, CPU Time: 79.5424 sec, Queue Size: 1498636
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5564 sec
+Cube 7 - IDA*: Nodes Expanded: 35326502, CPU Time: 480.8233 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 26852, CPU Time: 0.8981 sec, Queue Size: 71739
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6497 sec
+Cube 8 - IDA*: Nodes Expanded: 215342, CPU Time: 1.4584 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 196508, CPU Time: 12.0717 sec, Queue Size: 443756
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6385 sec
+Cube 9 - IDA*: Nodes Expanded: 2469702, CPU Time: 16.2751 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 313971, CPU Time: 18.3898 sec, Queue Size: 663755
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6421 sec
+Cube 10 - IDA*: Nodes Expanded: 757647, CPU Time: 5.1365 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 258195, CPU Time: 15.6198 sec, Queue Size: 565597
+Cube 11 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6190 sec
+Cube 11 - IDA*: Nodes Expanded: 201197, CPU Time: 1.3323 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 313120, CPU Time: 18.5588 sec, Queue Size: 662058
+Cube 12 - IDDFS: Nodes Expanded: 283344, CPU Time: 1.2265 sec
+Cube 12 - IDA*: Nodes Expanded: 1507239, CPU Time: 10.2089 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 196436, CPU Time: 12.5835 sec, Queue Size: 443604
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6422 sec
+Cube 13 - IDA*: Nodes Expanded: 446961, CPU Time: 2.9465 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 2465685, CPU Time: 103.7737 sec, Queue Size: 1106842
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6744 sec
+Cube 14 - IDA*: Nodes Expanded: 75555025, CPU Time: 504.5706 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 29016, CPU Time: 1.0979 sec, Queue Size: 76948
+Cube 15 - IDDFS: Nodes Expanded: 126181, CPU Time: 0.5233 sec
+Cube 15 - IDA*: Nodes Expanded: 438615, CPU Time: 2.9444 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 455175, CPU Time: 25.6594 sec, Queue Size: 863741
+Cube 16 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6551 sec
+Cube 16 - IDA*: Nodes Expanded: 43246006, CPU Time: 292.8325 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 1662201, CPU Time: 80.6097 sec, Queue Size: 1480898
+Cube 17 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6429 sec
+Cube 17 - IDA*: Nodes Expanded: 79922215, CPU Time: 537.8048 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 2535308, CPU Time: 106.0506 sec, Queue Size: 1042277
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6599 sec
+Cube 18 - IDA*: Nodes Expanded: 28006091, CPU Time: 191.3419 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 2263189, CPU Time: 99.9140 sec, Queue Size: 1279992
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6581 sec
+Cube 19 - IDA*: Nodes Expanded: 263195481, CPU Time: 1689.5782 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 2025492, CPU Time: 85.8972 sec, Queue Size: 1433243
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5247 sec
+Cube 20 - IDA*: Nodes Expanded: 77543515, CPU Time: 2924.1350 sec, Queue Size: 0
+
+Running experiment for k=12 random turns
+Cube 1 - BFS: Nodes Expanded: 533863, CPU Time: 27.9401 sec, Queue Size: 957837
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5000 sec
+Cube 1 - IDA*: Nodes Expanded: 6439741, CPU Time: 39.9461 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 1334586, CPU Time: 63.2187 sec, Queue Size: 1414767
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5422 sec
+Cube 2 - IDA*: Nodes Expanded: 28141283, CPU Time: 488.5352 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 567028, CPU Time: 33.5791 sec, Queue Size: 1017569
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6839 sec
+Cube 3 - IDA*: Nodes Expanded: 13091074, CPU Time: 87.3218 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 150061, CPU Time: 9.4180 sec, Queue Size: 343947
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6420 sec
+Cube 4 - IDA*: Nodes Expanded: 877835, CPU Time: 5.8725 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 1314529, CPU Time: 67.0557 sec, Queue Size: 1423442
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.8565 sec
+Cube 5 - IDA*: Nodes Expanded: 34922941, CPU Time: 234.6161 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 816811, CPU Time: 46.0959 sec, Queue Size: 1339767
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6701 sec
+Cube 6 - IDA*: Nodes Expanded: 199466239, CPU Time: 1370.8403 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 3111782, CPU Time: 119.0987 sec, Queue Size: 546034
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.7799 sec
+Cube 7 - IDA*: Nodes Expanded: 43438523, CPU Time: 291.8064 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 658058, CPU Time: 38.1543 sec, Queue Size: 1160115
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6828 sec
+Cube 8 - IDA*: Nodes Expanded: 127388878, CPU Time: 845.9370 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 973790, CPU Time: 54.4408 sec, Queue Size: 1435664
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5856 sec
+Cube 9 - IDA*: Nodes Expanded: 73791497, CPU Time: 494.3912 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 590573, CPU Time: 33.2453 sec, Queue Size: 1057104
+Cube 10 - IDDFS: Nodes Expanded: 207006, CPU Time: 0.9089 sec
+Cube 10 - IDA*: Nodes Expanded: 5498640, CPU Time: 37.5300 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 3247, CPU Time: 0.1074 sec, Queue Size: 9894
+Cube 11 - IDDFS: Nodes Expanded: 23986, CPU Time: 0.1028 sec
+Cube 11 - IDA*: Nodes Expanded: 84415, CPU Time: 0.5600 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 795193, CPU Time: 44.6777 sec, Queue Size: 1319947
+Cube 12 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5139 sec
+Cube 12 - IDA*: Nodes Expanded: 13782973, CPU Time: 84.9264 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 523893, CPU Time: 28.7575 sec, Queue Size: 938807
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4939 sec
+Cube 13 - IDA*: Nodes Expanded: 4540450, CPU Time: 27.5728 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 3545310, CPU Time: 118.6557 sec, Queue Size: 128540
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5331 sec
+Cube 14 - IDA*: Nodes Expanded: 881814500, CPU Time: 6340.4847 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 1030398, CPU Time: 56.5151 sec, Queue Size: 1454031
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6407 sec
+Cube 15 - IDA*: Nodes Expanded: 99677322, CPU Time: 749.1707 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 51444, CPU Time: 1.6269 sec, Queue Size: 130661
+Cube 16 - IDDFS: Nodes Expanded: 25483, CPU Time: 0.1072 sec
+Cube 16 - IDA*: Nodes Expanded: 329145, CPU Time: 2.0694 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 1021802, CPU Time: 53.6492 sec, Queue Size: 1451754
+Cube 17 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5471 sec
+Cube 17 - IDA*: Nodes Expanded: 8154180, CPU Time: 49.7652 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 65440, CPU Time: 2.0542 sec, Queue Size: 164233
+Cube 18 - IDDFS: Nodes Expanded: 259691, CPU Time: 1.0436 sec
+Cube 18 - IDA*: Nodes Expanded: 3855556, CPU Time: 23.8693 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 803309, CPU Time: 42.4742 sec, Queue Size: 1327481
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5510 sec
+Cube 19 - IDA*: Nodes Expanded: 188015082, CPU Time: 2052.2858 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 3121506, CPU Time: 118.0681 sec, Queue Size: 537419
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6787 sec
+Cube 20 - IDA*: Nodes Expanded: 87352616, CPU Time: 583.4811 sec, Queue Size: 0
+
+Running experiment for k=13 random turns
+Cube 1 - BFS: Nodes Expanded: 1903337, CPU Time: 89.8998 sec, Queue Size: 1481684
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6809 sec
+Cube 1 - IDA*: Nodes Expanded: 331758498, CPU Time: 4041.1054 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 2767135, CPU Time: 103.1682 sec, Queue Size: 816332
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5074 sec
+Cube 2 - IDA*: Nodes Expanded: 10197358, CPU Time: 62.8227 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 240318, CPU Time: 13.3761 sec, Queue Size: 531635
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4899 sec
+Cube 3 - IDA*: Nodes Expanded: 8454812, CPU Time: 52.0636 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 2001074, CPU Time: 85.6577 sec, Queue Size: 1445144
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5129 sec
+Cube 4 - IDA*: Nodes Expanded: 163837670, CPU Time: 1012.3726 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 2475158, CPU Time: 94.2604 sec, Queue Size: 1098189
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5872 sec
+Cube 5 - IDA*: Nodes Expanded: 21547667, CPU Time: 133.7353 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 2200581, CPU Time: 88.5297 sec, Queue Size: 1325935
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5868 sec
+Cube 6 - IDA*: Nodes Expanded: 68702022, CPU Time: 423.2113 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 2165470, CPU Time: 89.1653 sec, Queue Size: 1349928
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5073 sec
+Cube 7 - IDA*: Nodes Expanded: 14442681, CPU Time: 89.3154 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 33303, CPU Time: 0.9804 sec, Queue Size: 87256
+Cube 8 - IDDFS: Nodes Expanded: 115046, CPU Time: 0.4522 sec
+Cube 8 - IDA*: Nodes Expanded: 39844, CPU Time: 0.2464 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 2518886, CPU Time: 94.7953 sec, Queue Size: 1057677
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4982 sec
+Cube 9 - IDA*: Nodes Expanded: 112724397, CPU Time: 696.5496 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 27072, CPU Time: 0.9535 sec, Queue Size: 72286
+Cube 10 - IDDFS: Nodes Expanded: 74890, CPU Time: 0.2891 sec
+Cube 10 - IDA*: Nodes Expanded: 30371, CPU Time: 0.1869 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 383256, CPU Time: 20.8438 sec, Queue Size: 770316
+Cube 11 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4704 sec
+Cube 11 - IDA*: Nodes Expanded: 80880763, CPU Time: 494.3502 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 1959497, CPU Time: 84.0921 sec, Queue Size: 1463065
+Cube 12 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5132 sec
+Cube 12 - IDA*: Nodes Expanded: 21217437, CPU Time: 131.2503 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 312181, CPU Time: 16.5665 sec, Queue Size: 660576
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4732 sec
+Cube 13 - IDA*: Nodes Expanded: 10915043, CPU Time: 66.2596 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 2764543, CPU Time: 100.1704 sec, Queue Size: 818907
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4865 sec
+Cube 14 - IDA*: Nodes Expanded: 130801120, CPU Time: 798.9824 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 2652116, CPU Time: 100.2608 sec, Queue Size: 929800
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5064 sec
+Cube 15 - IDA*: Nodes Expanded: 79231797, CPU Time: 487.4370 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 282605, CPU Time: 14.8439 sec, Queue Size: 610301
+Cube 16 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4833 sec
+Cube 16 - IDA*: Nodes Expanded: 19973085, CPU Time: 122.3785 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 453283, CPU Time: 24.7246 sec, Queue Size: 861253
+Cube 17 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4689 sec
+Cube 17 - IDA*: Nodes Expanded: 1036926, CPU Time: 6.3215 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 293315, CPU Time: 15.3908 sec, Queue Size: 628919
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4916 sec
+Cube 18 - IDA*: Nodes Expanded: 369748, CPU Time: 2.2550 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 471280, CPU Time: 24.8762 sec, Queue Size: 881883
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4667 sec
+Cube 19 - IDA*: Nodes Expanded: 13098566, CPU Time: 79.6029 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 202751, CPU Time: 11.4845 sec, Queue Size: 457052
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4698 sec
+Cube 20 - IDA*: Nodes Expanded: 1505319, CPU Time: 9.2328 sec, Queue Size: 0
+
+Running experiment for k=14 random turns
+Cube 1 - BFS: Nodes Expanded: 128834, CPU Time: 6.9754 sec, Queue Size: 302160
+Cube 1 - IDDFS: Nodes Expanded: 308400, CPU Time: 1.1808 sec
+Cube 1 - IDA*: Nodes Expanded: 356086, CPU Time: 2.1937 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 3176530, CPU Time: 112.0428 sec, Queue Size: 487586
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5232 sec
+Cube 2 - IDA*: Nodes Expanded: 166899056, CPU Time: 1029.2369 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 107219, CPU Time: 3.7558 sec, Queue Size: 257469
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4694 sec
+Cube 3 - IDA*: Nodes Expanded: 687471, CPU Time: 4.1958 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 3529476, CPU Time: 117.9071 sec, Queue Size: 144345
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5143 sec
+Cube 4 - IDA*: Nodes Expanded: 282724679, CPU Time: 1743.3087 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 592142, CPU Time: 31.2621 sec, Queue Size: 1059684
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4697 sec
+Cube 5 - IDA*: Nodes Expanded: 118290340, CPU Time: 718.5292 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 549801, CPU Time: 28.5124 sec, Queue Size: 987524
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4646 sec
+Cube 6 - IDA*: Nodes Expanded: 89441521, CPU Time: 543.6391 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 2969101, CPU Time: 106.2259 sec, Queue Size: 667000
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4984 sec
+Cube 7 - IDA*: Nodes Expanded: 72317070, CPU Time: 437.4606 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 3125959, CPU Time: 107.6848 sec, Queue Size: 533475
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4910 sec
+Cube 8 - IDA*: Nodes Expanded: 53856855, CPU Time: 333.0139 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 851060, CPU Time: 45.8452 sec, Queue Size: 1366676
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4763 sec
+Cube 9 - IDA*: Nodes Expanded: 6801306, CPU Time: 41.3595 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 894634, CPU Time: 43.7326 sec, Queue Size: 1396270
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4741 sec
+Cube 10 - IDA*: Nodes Expanded: 35455696, CPU Time: 216.9039 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 78763, CPU Time: 4.2793 sec, Queue Size: 195126
+Cube 11 - IDDFS: Nodes Expanded: 170237, CPU Time: 0.6539 sec
+Cube 11 - IDA*: Nodes Expanded: 249381, CPU Time: 1.5336 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 53094, CPU Time: 2.7355 sec, Queue Size: 134902
+Cube 12 - IDDFS: Nodes Expanded: 25856, CPU Time: 0.1080 sec
+Cube 12 - IDA*: Nodes Expanded: 4495453, CPU Time: 27.4556 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 1017741, CPU Time: 51.2619 sec, Queue Size: 1450739
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4893 sec
+Cube 13 - IDA*: Nodes Expanded: 144436954, CPU Time: 874.9773 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 729753, CPU Time: 38.6674 sec, Queue Size: 1252378
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4734 sec
+Cube 14 - IDA*: Nodes Expanded: 16203591, CPU Time: 99.7830 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 3222446, CPU Time: 111.1405 sec, Queue Size: 444816
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5048 sec
+Cube 15 - IDA*: Nodes Expanded: 287672236, CPU Time: 1755.5473 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 3202701, CPU Time: 109.5941 sec, Queue Size: 463278
+Cube 16 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5109 sec
+Cube 16 - IDA*: Nodes Expanded: 65631727, CPU Time: 407.2764 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 70867, CPU Time: 3.7725 sec, Queue Size: 176459
+Cube 17 - IDDFS: Nodes Expanded: 187615, CPU Time: 0.7223 sec
+Cube 17 - IDA*: Nodes Expanded: 411887, CPU Time: 2.5148 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 76912, CPU Time: 4.0222 sec, Queue Size: 190792
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4816 sec
+Cube 18 - IDA*: Nodes Expanded: 107265, CPU Time: 0.6623 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 3094574, CPU Time: 107.5792 sec, Queue Size: 561004
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5128 sec
+Cube 19 - IDA*: Nodes Expanded: 172561218, CPU Time: 1056.2791 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 1122293, CPU Time: 53.8901 sec, Queue Size: 1464801
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4856 sec
+Cube 20 - IDA*: Nodes Expanded: 546211637, CPU Time: 3378.0866 sec, Queue Size: 0
+
+Running experiment for k=15 random turns
+Cube 1 - BFS: Nodes Expanded: 276954, CPU Time: 15.2104 sec, Queue Size: 600399
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4704 sec
+Cube 1 - IDA*: Nodes Expanded: 19435630, CPU Time: 118.2276 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 2204035, CPU Time: 89.2365 sec, Queue Size: 1323543
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4852 sec
+Cube 2 - IDA*: Nodes Expanded: 12277777, CPU Time: 75.2100 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 326699, CPU Time: 17.6592 sec, Queue Size: 684632
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4764 sec
+Cube 3 - IDA*: Nodes Expanded: 16178809, CPU Time: 98.4598 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 2138437, CPU Time: 87.7520 sec, Queue Size: 1367235
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4801 sec
+Cube 4 - IDA*: Nodes Expanded: 1033470419, CPU Time: 6297.8482 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 2124616, CPU Time: 89.8881 sec, Queue Size: 1375631
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4975 sec
+Cube 5 - IDA*: Nodes Expanded: 48241296, CPU Time: 295.1157 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 2728086, CPU Time: 101.6788 sec, Queue Size: 855073
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4962 sec
+Cube 6 - IDA*: Nodes Expanded: 50872067, CPU Time: 310.7222 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 1629781, CPU Time: 69.9666 sec, Queue Size: 1468678
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4891 sec
+Cube 7 - IDA*: Nodes Expanded: 147434558, CPU Time: 897.5148 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 2146177, CPU Time: 89.8709 sec, Queue Size: 1362514
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5069 sec
+Cube 8 - IDA*: Nodes Expanded: 39031726, CPU Time: 238.2622 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 359490, CPU Time: 18.1049 sec, Queue Size: 735776
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4765 sec
+Cube 9 - IDA*: Nodes Expanded: 25366504, CPU Time: 154.7397 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 2447182, CPU Time: 95.5290 sec, Queue Size: 1123646
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4900 sec
+Cube 10 - IDA*: Nodes Expanded: 91579159, CPU Time: 559.6736 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 13711, CPU Time: 0.4094 sec, Queue Size: 38025
+Cube 11 - IDDFS: Nodes Expanded: 71624, CPU Time: 0.2864 sec
+Cube 11 - IDA*: Nodes Expanded: 368762, CPU Time: 2.2335 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 2135820, CPU Time: 86.8750 sec, Queue Size: 1368811
+Cube 12 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5119 sec
+Cube 12 - IDA*: Nodes Expanded: 46424974, CPU Time: 285.1422 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 1849538, CPU Time: 81.5461 sec, Queue Size: 1493649
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4890 sec
+Cube 13 - IDA*: Nodes Expanded: 15545280, CPU Time: 94.4383 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 2524937, CPU Time: 96.4197 sec, Queue Size: 1052031
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5100 sec
+Cube 14 - IDA*: Nodes Expanded: 166779356, CPU Time: 1030.1250 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 2414657, CPU Time: 95.7494 sec, Queue Size: 1152556
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5868 sec
+Cube 15 - IDA*: Nodes Expanded: 22810679, CPU Time: 142.9043 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 478110, CPU Time: 26.2827 sec, Queue Size: 888838
+Cube 16 - IDDFS: Nodes Expanded: 162676, CPU Time: 0.6416 sec
+Cube 16 - IDA*: Nodes Expanded: 3630007, CPU Time: 22.1080 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 437922, CPU Time: 22.9726 sec, Queue Size: 842633
+Cube 17 - IDDFS: Nodes Expanded: 136222, CPU Time: 0.5380 sec
+Cube 17 - IDA*: Nodes Expanded: 4687222, CPU Time: 28.6879 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 301873, CPU Time: 16.6925 sec, Queue Size: 643568
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5551 sec
+Cube 18 - IDA*: Nodes Expanded: 40482870, CPU Time: 247.6710 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 1931772, CPU Time: 83.0432 sec, Queue Size: 1473102
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5854 sec
+Cube 19 - IDA*: Nodes Expanded: 46856913, CPU Time: 290.2137 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 379346, CPU Time: 21.1740 sec, Queue Size: 764644
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5943 sec
+Cube 20 - IDA*: Nodes Expanded: 100818146, CPU Time: 623.3108 sec, Queue Size: 0
+
+Running experiment for k=16 random turns
+Cube 1 - BFS: Nodes Expanded: 1183736, CPU Time: 58.1925 sec, Queue Size: 1460493
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5454 sec
+Cube 1 - IDA*: Nodes Expanded: 187137518, CPU Time: 1145.4170 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 991130, CPU Time: 49.3763 sec, Queue Size: 1442496
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4830 sec
+Cube 2 - IDA*: Nodes Expanded: 32671900, CPU Time: 200.0722 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 3366748, CPU Time: 115.4497 sec, Queue Size: 305606
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5134 sec
+Cube 3 - IDA*: Nodes Expanded: 307804301, CPU Time: 1887.4013 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 140049, CPU Time: 6.9959 sec, Queue Size: 324232
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4763 sec
+Cube 4 - IDA*: Nodes Expanded: 5635127, CPU Time: 34.4891 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 646689, CPU Time: 35.9782 sec, Queue Size: 1143940
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5055 sec
+Cube 5 - IDA*: Nodes Expanded: 11375746, CPU Time: 69.9554 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 2911022, CPU Time: 104.2364 sec, Queue Size: 710724
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5022 sec
+Cube 6 - IDA*: Nodes Expanded: 352276831, CPU Time: 2151.7169 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 3366152, CPU Time: 115.5873 sec, Queue Size: 306190
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5188 sec
+Cube 7 - IDA*: Nodes Expanded: 186006333, CPU Time: 1148.5009 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 1301244, CPU Time: 58.6087 sec, Queue Size: 1428822
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4832 sec
+Cube 8 - IDA*: Nodes Expanded: 3200269, CPU Time: 19.6768 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 153611, CPU Time: 6.9802 sec, Queue Size: 350357
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4777 sec
+Cube 9 - IDA*: Nodes Expanded: 1878833, CPU Time: 11.4688 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 1047317, CPU Time: 50.9839 sec, Queue Size: 1457450
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4856 sec
+Cube 10 - IDA*: Nodes Expanded: 12502390, CPU Time: 75.7171 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 3406844, CPU Time: 116.4004 sec, Queue Size: 266147
+Cube 11 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5128 sec
+Cube 11 - IDA*: Nodes Expanded: 196745541, CPU Time: 1207.0587 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 3394100, CPU Time: 112.2517 sec, Queue Size: 278658
+Cube 12 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5057 sec
+Cube 12 - IDA*: Nodes Expanded: 420828696, CPU Time: 2582.7964 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 1148273, CPU Time: 58.5968 sec, Queue Size: 1464122
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4723 sec
+Cube 13 - IDA*: Nodes Expanded: 98893829, CPU Time: 601.2089 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 785480, CPU Time: 39.0723 sec, Queue Size: 1310698
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5036 sec
+Cube 14 - IDA*: Nodes Expanded: 8488536, CPU Time: 51.8861 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 3172958, CPU Time: 112.3408 sec, Queue Size: 490830
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4795 sec
+Cube 15 - IDA*: Nodes Expanded: 184167995, CPU Time: 1121.1125 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 530036, CPU Time: 26.5205 sec, Queue Size: 950865
+Cube 16 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4777 sec
+Cube 16 - IDA*: Nodes Expanded: 24848613, CPU Time: 150.6947 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 1301793, CPU Time: 63.2989 sec, Queue Size: 1428615
+Cube 17 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4657 sec
+Cube 17 - IDA*: Nodes Expanded: 31632426, CPU Time: 191.0195 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 730573, CPU Time: 40.8826 sec, Queue Size: 1253376
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.8038 sec
+Cube 18 - IDA*: Nodes Expanded: 131425871, CPU Time: 811.2838 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 2976578, CPU Time: 102.6393 sec, Queue Size: 661094
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4778 sec
+Cube 19 - IDA*: Nodes Expanded: 81577586, CPU Time: 495.6655 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 3259556, CPU Time: 112.5226 sec, Queue Size: 409619
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4921 sec
+Cube 20 - IDA*: Nodes Expanded: 112970085, CPU Time: 689.4373 sec, Queue Size: 0
+
+Running experiment for k=17 random turns
+Cube 1 - BFS: Nodes Expanded: 2021294, CPU Time: 87.1452 sec, Queue Size: 1435304
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5092 sec
+Cube 1 - IDA*: Nodes Expanded: 6385337, CPU Time: 39.1813 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 482708, CPU Time: 23.0787 sec, Queue Size: 893857
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4769 sec
+Cube 2 - IDA*: Nodes Expanded: 35870380, CPU Time: 219.5539 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 1628032, CPU Time: 72.3841 sec, Queue Size: 1467935
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4802 sec
+Cube 3 - IDA*: Nodes Expanded: 12300144, CPU Time: 74.8032 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 2727377, CPU Time: 101.4886 sec, Queue Size: 855772
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4975 sec
+Cube 4 - IDA*: Nodes Expanded: 36150637, CPU Time: 221.2269 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 2005846, CPU Time: 85.8814 sec, Queue Size: 1442877
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4872 sec
+Cube 5 - IDA*: Nodes Expanded: 85535931, CPU Time: 522.9931 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 490640, CPU Time: 23.5379 sec, Queue Size: 902229
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4755 sec
+Cube 6 - IDA*: Nodes Expanded: 8351569, CPU Time: 50.9526 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 439284, CPU Time: 24.9120 sec, Queue Size: 844401
+Cube 7 - IDDFS: Nodes Expanded: 137295, CPU Time: 0.5299 sec
+Cube 7 - IDA*: Nodes Expanded: 1125362, CPU Time: 6.8721 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 2586182, CPU Time: 96.3230 sec, Queue Size: 993771
+Cube 8 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5078 sec
+Cube 8 - IDA*: Nodes Expanded: 55281261, CPU Time: 343.0133 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 1612342, CPU Time: 73.0348 sec, Queue Size: 1461761
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4926 sec
+Cube 9 - IDA*: Nodes Expanded: 2330278, CPU Time: 14.2051 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 2256917, CPU Time: 90.2748 sec, Queue Size: 1284799
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4965 sec
+Cube 10 - IDA*: Nodes Expanded: 30804459, CPU Time: 189.2378 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 2368173, CPU Time: 90.6965 sec, Queue Size: 1193509
+Cube 11 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4803 sec
+Cube 11 - IDA*: Nodes Expanded: 52853520, CPU Time: 322.6871 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 2710312, CPU Time: 99.6804 sec, Queue Size: 872607
+Cube 12 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4987 sec
+Cube 12 - IDA*: Nodes Expanded: 257281739, CPU Time: 1585.5601 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 1843789, CPU Time: 80.7046 sec, Queue Size: 1494427
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4939 sec
+Cube 13 - IDA*: Nodes Expanded: 13289193, CPU Time: 81.6616 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 1749799, CPU Time: 76.9849 sec, Queue Size: 1497938
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4898 sec
+Cube 14 - IDA*: Nodes Expanded: 9144956, CPU Time: 55.9726 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 3631943, CPU Time: 122.6569 sec, Queue Size: 42180
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5092 sec
+Cube 15 - IDA*: Nodes Expanded: 371660456, CPU Time: 2294.3475 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 1459443, CPU Time: 65.1636 sec, Queue Size: 1359627
+Cube 16 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4737 sec
+Cube 16 - IDA*: Nodes Expanded: 51417320, CPU Time: 313.8102 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 179690, CPU Time: 8.0613 sec, Queue Size: 407537
+Cube 17 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4807 sec
+Cube 17 - IDA*: Nodes Expanded: 1246080, CPU Time: 7.6358 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 2156291, CPU Time: 88.0849 sec, Queue Size: 1356032
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4987 sec
+Cube 18 - IDA*: Nodes Expanded: 680431886, CPU Time: 4152.1649 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 385117, CPU Time: 21.8681 sec, Queue Size: 773052
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4680 sec
+Cube 19 - IDA*: Nodes Expanded: 11573872, CPU Time: 70.3709 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 30684, CPU Time: 0.9247 sec, Queue Size: 80917
+Cube 20 - IDDFS: Nodes Expanded: 16683, CPU Time: 0.0687 sec
+Cube 20 - IDA*: Nodes Expanded: 9109, CPU Time: 0.0584 sec, Queue Size: 0
+
+Running experiment for k=18 random turns
+Cube 1 - BFS: Nodes Expanded: 1146693, CPU Time: 55.3771 sec, Queue Size: 1464162
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4866 sec
+Cube 1 - IDA*: Nodes Expanded: 171550888, CPU Time: 1054.6345 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 3271527, CPU Time: 115.6007 sec, Queue Size: 398156
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4866 sec
+Cube 2 - IDA*: Nodes Expanded: 316650161, CPU Time: 2009.1373 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 696073, CPU Time: 42.8546 sec, Queue Size: 1210709
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6217 sec
+Cube 3 - IDA*: Nodes Expanded: 2061186, CPU Time: 14.0294 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 3310833, CPU Time: 116.2599 sec, Queue Size: 360143
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5655 sec
+Cube 4 - IDA*: Nodes Expanded: 74825852, CPU Time: 480.1488 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 2988293, CPU Time: 106.0138 sec, Queue Size: 651760
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5024 sec
+Cube 5 - IDA*: Nodes Expanded: 286476779, CPU Time: 1746.8528 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 3465868, CPU Time: 117.7286 sec, Queue Size: 207627
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5429 sec
+Cube 6 - IDA*: Nodes Expanded: 239657840, CPU Time: 1464.9492 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 82837, CPU Time: 2.5028 sec, Queue Size: 204388
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4807 sec
+Cube 7 - IDA*: Nodes Expanded: 586408, CPU Time: 3.5489 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 48295, CPU Time: 2.3806 sec, Queue Size: 122827
+Cube 8 - IDDFS: Nodes Expanded: 186357, CPU Time: 0.7199 sec
+Cube 8 - IDA*: Nodes Expanded: 17165, CPU Time: 0.1086 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 3222828, CPU Time: 111.1674 sec, Queue Size: 444459
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4855 sec
+Cube 9 - IDA*: Nodes Expanded: 95002466, CPU Time: 581.2175 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 2872545, CPU Time: 102.9700 sec, Queue Size: 737589
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5327 sec
+Cube 10 - IDA*: Nodes Expanded: 42529699, CPU Time: 263.2652 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 1304183, CPU Time: 62.1390 sec, Queue Size: 1427643
+Cube 11 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4721 sec
+Cube 11 - IDA*: Nodes Expanded: 35217729, CPU Time: 213.7998 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 970107, CPU Time: 47.3948 sec, Queue Size: 1433935
+Cube 12 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5106 sec
+Cube 12 - IDA*: Nodes Expanded: 22564337, CPU Time: 136.6494 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 1212868, CPU Time: 57.1518 sec, Queue Size: 1455522
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4848 sec
+Cube 13 - IDA*: Nodes Expanded: 1297479, CPU Time: 7.8632 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 3103232, CPU Time: 107.7030 sec, Queue Size: 553456
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5137 sec
+Cube 14 - IDA*: Nodes Expanded: 619799101, CPU Time: 3777.4164 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 3305887, CPU Time: 112.7029 sec, Queue Size: 364930
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5103 sec
+Cube 15 - IDA*: Nodes Expanded: 83774454, CPU Time: 512.2015 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 135227, CPU Time: 7.4174 sec, Queue Size: 314883
+Cube 16 - IDDFS: Nodes Expanded: 48406, CPU Time: 0.1931 sec
+Cube 16 - IDA*: Nodes Expanded: 395973, CPU Time: 2.4402 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 864934, CPU Time: 45.9631 sec, Queue Size: 1376794
+Cube 17 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4799 sec
+Cube 17 - IDA*: Nodes Expanded: 8199535, CPU Time: 49.9371 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 706336, CPU Time: 37.2632 sec, Queue Size: 1223954
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4917 sec
+Cube 18 - IDA*: Nodes Expanded: 5946488, CPU Time: 36.3228 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 96763, CPU Time: 3.8098 sec, Queue Size: 235206
+Cube 19 - IDDFS: Nodes Expanded: 43381, CPU Time: 0.1738 sec
+Cube 19 - IDA*: Nodes Expanded: 451401, CPU Time: 2.7442 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 882826, CPU Time: 46.4279 sec, Queue Size: 1388675
+Cube 20 - IDDFS: Nodes Expanded: 286872, CPU Time: 1.1141 sec
+Cube 20 - IDA*: Nodes Expanded: 36030925, CPU Time: 219.7869 sec, Queue Size: 0
+
+Running experiment for k=19 random turns
+Cube 1 - BFS: Nodes Expanded: 30010, CPU Time: 0.8964 sec, Queue Size: 79344
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4751 sec
+Cube 1 - IDA*: Nodes Expanded: 712885, CPU Time: 4.3356 sec, Queue Size: 0
+Cube 2 - BFS: Nodes Expanded: 2152592, CPU Time: 89.5185 sec, Queue Size: 1358408
+Cube 2 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5286 sec
+Cube 2 - IDA*: Nodes Expanded: 28195057, CPU Time: 172.0489 sec, Queue Size: 0
+Cube 3 - BFS: Nodes Expanded: 1646447, CPU Time: 72.8913 sec, Queue Size: 1475667
+Cube 3 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4930 sec
+Cube 3 - IDA*: Nodes Expanded: 21041671, CPU Time: 128.5165 sec, Queue Size: 0
+Cube 4 - BFS: Nodes Expanded: 298278, CPU Time: 16.3568 sec, Queue Size: 637245
+Cube 4 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5021 sec
+Cube 4 - IDA*: Nodes Expanded: 1244018, CPU Time: 7.5879 sec, Queue Size: 0
+Cube 5 - BFS: Nodes Expanded: 2745467, CPU Time: 102.5400 sec, Queue Size: 837861
+Cube 5 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4847 sec
+Cube 5 - IDA*: Nodes Expanded: 52509196, CPU Time: 324.3562 sec, Queue Size: 0
+Cube 6 - BFS: Nodes Expanded: 1637949, CPU Time: 71.5443 sec, Queue Size: 1472363
+Cube 6 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4928 sec
+Cube 6 - IDA*: Nodes Expanded: 17417760, CPU Time: 106.7522 sec, Queue Size: 0
+Cube 7 - BFS: Nodes Expanded: 2353966, CPU Time: 94.5173 sec, Queue Size: 1205725
+Cube 7 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4938 sec
+Cube 7 - IDA*: Nodes Expanded: 15764570, CPU Time: 95.5064 sec, Queue Size: 0
+Cube 8 - BFS: Nodes Expanded: 1472, CPU Time: 0.0462 sec, Queue Size: 4690
+Cube 8 - IDDFS: Nodes Expanded: 2060, CPU Time: 0.0075 sec
+Cube 8 - IDA*: Nodes Expanded: 572133, CPU Time: 3.4554 sec, Queue Size: 0
+Cube 9 - BFS: Nodes Expanded: 2340408, CPU Time: 89.4951 sec, Queue Size: 1217474
+Cube 9 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5066 sec
+Cube 9 - IDA*: Nodes Expanded: 72259951, CPU Time: 439.6787 sec, Queue Size: 0
+Cube 10 - BFS: Nodes Expanded: 2064143, CPU Time: 88.7376 sec, Queue Size: 1412450
+Cube 10 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5043 sec
+Cube 10 - IDA*: Nodes Expanded: 47632131, CPU Time: 287.3779 sec, Queue Size: 0
+Cube 11 - BFS: Nodes Expanded: 1508331, CPU Time: 66.2756 sec, Queue Size: 1400041
+Cube 11 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4832 sec
+Cube 11 - IDA*: Nodes Expanded: 30677357, CPU Time: 186.2927 sec, Queue Size: 0
+Cube 12 - BFS: Nodes Expanded: 25072, CPU Time: 0.7487 sec, Queue Size: 67218
+Cube 12 - IDDFS: Nodes Expanded: 98330, CPU Time: 0.3808 sec
+Cube 12 - IDA*: Nodes Expanded: 37347, CPU Time: 0.2290 sec, Queue Size: 0
+Cube 13 - BFS: Nodes Expanded: 1662318, CPU Time: 72.4048 sec, Queue Size: 1480949
+Cube 13 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4962 sec
+Cube 13 - IDA*: Nodes Expanded: 30829778, CPU Time: 187.5272 sec, Queue Size: 0
+Cube 14 - BFS: Nodes Expanded: 2641405, CPU Time: 98.7304 sec, Queue Size: 940243
+Cube 14 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5172 sec
+Cube 14 - IDA*: Nodes Expanded: 76074997, CPU Time: 461.0673 sec, Queue Size: 0
+Cube 15 - BFS: Nodes Expanded: 496867, CPU Time: 27.1609 sec, Queue Size: 908559
+Cube 15 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4913 sec
+Cube 15 - IDA*: Nodes Expanded: 21536068, CPU Time: 130.9148 sec, Queue Size: 0
+Cube 16 - BFS: Nodes Expanded: 3631884, CPU Time: 117.9504 sec, Queue Size: 42239
+Cube 16 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5365 sec
+Cube 16 - IDA*: Nodes Expanded: 46985152, CPU Time: 289.0941 sec, Queue Size: 0
+Cube 17 - BFS: Nodes Expanded: 386400, CPU Time: 22.3352 sec, Queue Size: 774922
+Cube 17 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4843 sec
+Cube 17 - IDA*: Nodes Expanded: 4490443, CPU Time: 27.4330 sec, Queue Size: 0
+Cube 18 - BFS: Nodes Expanded: 2454139, CPU Time: 95.8724 sec, Queue Size: 1117321
+Cube 18 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4993 sec
+Cube 18 - IDA*: Nodes Expanded: 73931826, CPU Time: 447.4733 sec, Queue Size: 0
+Cube 19 - BFS: Nodes Expanded: 2638029, CPU Time: 96.0377 sec, Queue Size: 943534
+Cube 19 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.4900 sec
+Cube 19 - IDA*: Nodes Expanded: 84159821, CPU Time: 539.4713 sec, Queue Size: 0
+Cube 20 - BFS: Nodes Expanded: 2348580, CPU Time: 101.3426 sec, Queue Size: 1210382
+Cube 20 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.6911 sec
+Cube 20 - IDA*: Nodes Expanded: 16615943, CPU Time: 111.7176 sec, Queue Size: 0
+
+Running experiment for k=20 random turns
+Cube 1 - BFS: Nodes Expanded: 3364387, CPU Time: 122.9972 sec, Queue Size: 307925
+Cube 1 - IDDFS: Nodes Expanded: 385242, CPU Time: 1.5908 sec
+
