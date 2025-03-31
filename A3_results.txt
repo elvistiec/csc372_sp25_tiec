@@ -1,0 +1,735 @@
+Formula 1
+DPLL: Time=0.0029 seconds, Nodes expanded=24
+WalkSAT Run 1: Time=0.3781 seconds, Max satisfied=82
+WalkSAT Run 2: Time=0.3719 seconds, Max satisfied=82
+WalkSAT Run 3: Time=0.3617 seconds, Max satisfied=82
+WalkSAT Run 4: Time=0.3554 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3548 seconds, Max satisfied=82
+WalkSAT Run 6: Time=0.3578 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3539 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3549 seconds, Max satisfied=82
+WalkSAT Run 9: Time=0.3589 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3540 seconds, Max satisfied=82
+Genetic Run 1: Time=1.0508 seconds, Flips=83
+Genetic Run 2: Time=1.0797 seconds, Flips=82
+Genetic Run 3: Time=1.0694 seconds, Flips=82
+Genetic Run 4: Time=1.0714 seconds, Flips=82
+Genetic Run 5: Time=0.9999 seconds, Flips=83
+Genetic Run 6: Time=1.0285 seconds, Flips=81
+Genetic Run 7: Time=1.0818 seconds, Flips=82
+Genetic Run 8: Time=0.9882 seconds, Flips=82
+Genetic Run 9: Time=1.0702 seconds, Flips=83
+Genetic Run 10: Time=1.0152 seconds, Flips=83
+
+Formula 2
+DPLL: Time=0.0037 seconds, Nodes expanded=27
+WalkSAT Run 1: Time=0.3442 seconds, Max satisfied=82
+WalkSAT Run 2: Time=0.3505 seconds, Max satisfied=82
+WalkSAT Run 3: Time=0.3447 seconds, Max satisfied=81
+WalkSAT Run 4: Time=0.3427 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3552 seconds, Max satisfied=82
+WalkSAT Run 6: Time=0.3535 seconds, Max satisfied=81
+WalkSAT Run 7: Time=0.3516 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3484 seconds, Max satisfied=81
+WalkSAT Run 9: Time=0.3486 seconds, Max satisfied=81
+WalkSAT Run 10: Time=0.3471 seconds, Max satisfied=82
+Genetic Run 1: Time=0.9790 seconds, Flips=82
+Genetic Run 2: Time=0.9842 seconds, Flips=81
+Genetic Run 3: Time=0.9496 seconds, Flips=82
+Genetic Run 4: Time=0.9474 seconds, Flips=83
+Genetic Run 5: Time=0.9899 seconds, Flips=81
+Genetic Run 6: Time=1.0001 seconds, Flips=81
+Genetic Run 7: Time=0.9693 seconds, Flips=82
+Genetic Run 8: Time=0.9956 seconds, Flips=82
+Genetic Run 9: Time=1.0615 seconds, Flips=83
+Genetic Run 10: Time=0.9945 seconds, Flips=83
+
+Formula 3
+DPLL: Time=0.0030 seconds, Nodes expanded=21
+WalkSAT Run 1: Time=0.3536 seconds, Max satisfied=83
+WalkSAT Run 2: Time=0.0053 seconds, Flips=84
+WalkSAT Run 3: Time=0.3573 seconds, Max satisfied=81
+WalkSAT Run 4: Time=0.3440 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3442 seconds, Max satisfied=83
+WalkSAT Run 6: Time=0.3515 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3609 seconds, Max satisfied=81
+WalkSAT Run 8: Time=0.3566 seconds, Max satisfied=81
+WalkSAT Run 9: Time=0.3437 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3602 seconds, Max satisfied=81
+Genetic Run 1: Time=1.0728 seconds, Flips=82
+Genetic Run 2: Time=0.1008 seconds, Flips=84
+Genetic Run 3: Time=1.0070 seconds, Flips=83
+Genetic Run 4: Time=0.9963 seconds, Flips=83
+Genetic Run 5: Time=1.0574 seconds, Flips=83
+Genetic Run 6: Time=1.0553 seconds, Flips=83
+Genetic Run 7: Time=0.0212 seconds, Flips=84
+Genetic Run 8: Time=0.9918 seconds, Flips=82
+Genetic Run 9: Time=1.0350 seconds, Flips=83
+Genetic Run 10: Time=0.9897 seconds, Flips=83
+
+Formula 4
+DPLL: Time=0.0048 seconds, Nodes expanded=31
+WalkSAT Run 1: Time=0.3647 seconds, Max satisfied=81
+WalkSAT Run 2: Time=0.3561 seconds, Max satisfied=81
+WalkSAT Run 3: Time=0.3662 seconds, Max satisfied=80
+WalkSAT Run 4: Time=0.3552 seconds, Max satisfied=81
+WalkSAT Run 5: Time=0.3630 seconds, Max satisfied=80
+WalkSAT Run 6: Time=0.3589 seconds, Max satisfied=80
+WalkSAT Run 7: Time=0.3573 seconds, Max satisfied=81
+WalkSAT Run 8: Time=0.3566 seconds, Max satisfied=81
+WalkSAT Run 9: Time=0.3600 seconds, Max satisfied=80
+WalkSAT Run 10: Time=0.3609 seconds, Max satisfied=81
+Genetic Run 1: Time=1.0307 seconds, Flips=82
+Genetic Run 2: Time=1.0478 seconds, Flips=82
+Genetic Run 3: Time=1.0334 seconds, Flips=81
+Genetic Run 4: Time=1.0297 seconds, Flips=81
+Genetic Run 5: Time=1.0071 seconds, Flips=80
+Genetic Run 6: Time=1.0193 seconds, Flips=81
+Genetic Run 7: Time=1.0702 seconds, Flips=81
+Genetic Run 8: Time=1.0590 seconds, Flips=80
+Genetic Run 9: Time=1.0353 seconds, Flips=80
+Genetic Run 10: Time=1.0361 seconds, Flips=82
+
+Formula 5
+DPLL: Time=0.0023 seconds, Nodes expanded=19
+WalkSAT Run 1: Time=0.3453 seconds, Max satisfied=82
+WalkSAT Run 2: Time=0.3453 seconds, Max satisfied=83
+WalkSAT Run 3: Time=0.3476 seconds, Max satisfied=83
+WalkSAT Run 4: Time=0.3478 seconds, Max satisfied=83
+WalkSAT Run 5: Time=0.3467 seconds, Max satisfied=83
+WalkSAT Run 6: Time=0.3440 seconds, Max satisfied=83
+WalkSAT Run 7: Time=0.3472 seconds, Max satisfied=83
+WalkSAT Run 8: Time=0.3377 seconds, Max satisfied=82
+WalkSAT Run 9: Time=0.3646 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3419 seconds, Max satisfied=82
+Genetic Run 1: Time=1.0110 seconds, Flips=83
+Genetic Run 2: Time=0.9660 seconds, Flips=81
+Genetic Run 3: Time=1.0413 seconds, Flips=82
+Genetic Run 4: Time=1.0541 seconds, Flips=81
+Genetic Run 5: Time=0.9972 seconds, Flips=83
+Genetic Run 6: Time=1.0246 seconds, Flips=83
+Genetic Run 7: Time=0.9689 seconds, Flips=81
+Genetic Run 8: Time=0.9967 seconds, Flips=83
+Genetic Run 9: Time=1.0006 seconds, Flips=83
+Genetic Run 10: Time=1.0081 seconds, Flips=82
+
+Formula 6
+DPLL: Time=0.0028 seconds, Nodes expanded=17
+WalkSAT Run 1: Time=0.3562 seconds, Max satisfied=83
+WalkSAT Run 2: Time=0.3547 seconds, Max satisfied=81
+WalkSAT Run 3: Time=0.3508 seconds, Max satisfied=83
+WalkSAT Run 4: Time=0.3508 seconds, Max satisfied=83
+WalkSAT Run 5: Time=0.3516 seconds, Max satisfied=83
+WalkSAT Run 6: Time=0.3482 seconds, Max satisfied=83
+WalkSAT Run 7: Time=0.3512 seconds, Max satisfied=81
+WalkSAT Run 8: Time=0.3504 seconds, Max satisfied=83
+WalkSAT Run 9: Time=0.3565 seconds, Max satisfied=81
+WalkSAT Run 10: Time=0.3529 seconds, Max satisfied=83
+Genetic Run 1: Time=1.0034 seconds, Flips=83
+Genetic Run 2: Time=1.0507 seconds, Flips=82
+Genetic Run 3: Time=0.9917 seconds, Flips=82
+Genetic Run 4: Time=1.0171 seconds, Flips=82
+Genetic Run 5: Time=1.0076 seconds, Flips=82
+Genetic Run 6: Time=1.0333 seconds, Flips=83
+Genetic Run 7: Time=1.0167 seconds, Flips=82
+Genetic Run 8: Time=1.0458 seconds, Flips=81
+Genetic Run 9: Time=0.9971 seconds, Flips=83
+Genetic Run 10: Time=0.9798 seconds, Flips=82
+
+Formula 7
+DPLL: Time=0.0015 seconds, Nodes expanded=13
+WalkSAT Run 1: Time=0.3552 seconds, Max satisfied=82
+WalkSAT Run 2: Time=0.3493 seconds, Max satisfied=82
+WalkSAT Run 3: Time=0.3488 seconds, Max satisfied=82
+WalkSAT Run 4: Time=0.3482 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3477 seconds, Max satisfied=82
+WalkSAT Run 6: Time=0.3499 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3514 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3497 seconds, Max satisfied=82
+WalkSAT Run 9: Time=0.3401 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3428 seconds, Max satisfied=82
+Genetic Run 1: Time=1.0392 seconds, Flips=82
+Genetic Run 2: Time=1.0169 seconds, Flips=81
+Genetic Run 3: Time=1.0173 seconds, Flips=82
+Genetic Run 4: Time=1.0063 seconds, Flips=81
+Genetic Run 5: Time=0.9995 seconds, Flips=81
+Genetic Run 6: Time=1.0042 seconds, Flips=82
+Genetic Run 7: Time=1.0661 seconds, Flips=82
+Genetic Run 8: Time=1.0469 seconds, Flips=83
+Genetic Run 9: Time=1.0013 seconds, Flips=83
+Genetic Run 10: Time=1.0510 seconds, Flips=83
+
+Formula 8
+DPLL: Time=0.0071 seconds, Nodes expanded=53
+WalkSAT Run 1: Time=0.3607 seconds, Max satisfied=80
+WalkSAT Run 2: Time=0.3777 seconds, Max satisfied=80
+WalkSAT Run 3: Time=0.3516 seconds, Max satisfied=81
+WalkSAT Run 4: Time=0.3523 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3564 seconds, Max satisfied=80
+WalkSAT Run 6: Time=0.3572 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3521 seconds, Max satisfied=80
+WalkSAT Run 8: Time=0.3575 seconds, Max satisfied=80
+WalkSAT Run 9: Time=0.3525 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3487 seconds, Max satisfied=81
+Genetic Run 1: Time=1.0053 seconds, Flips=82
+Genetic Run 2: Time=1.0275 seconds, Flips=81
+Genetic Run 3: Time=1.0062 seconds, Flips=82
+Genetic Run 4: Time=1.0087 seconds, Flips=82
+Genetic Run 5: Time=0.9849 seconds, Flips=82
+Genetic Run 6: Time=1.0407 seconds, Flips=82
+Genetic Run 7: Time=1.0003 seconds, Flips=82
+Genetic Run 8: Time=1.0099 seconds, Flips=80
+Genetic Run 9: Time=1.0003 seconds, Flips=82
+Genetic Run 10: Time=1.0130 seconds, Flips=82
+
+Formula 9
+DPLL: Time=0.0017 seconds, Nodes expanded=14
+WalkSAT Run 1: Time=0.3480 seconds, Max satisfied=83
+WalkSAT Run 2: Time=0.3471 seconds, Max satisfied=83
+WalkSAT Run 3: Time=0.3447 seconds, Max satisfied=83
+WalkSAT Run 4: Time=0.3400 seconds, Max satisfied=83
+WalkSAT Run 5: Time=0.3449 seconds, Max satisfied=83
+WalkSAT Run 6: Time=0.3477 seconds, Max satisfied=83
+WalkSAT Run 7: Time=0.0004 seconds, Flips=84
+WalkSAT Run 8: Time=0.3581 seconds, Max satisfied=83
+WalkSAT Run 9: Time=0.3536 seconds, Max satisfied=83
+WalkSAT Run 10: Time=0.3503 seconds, Max satisfied=83
+Genetic Run 1: Time=1.0869 seconds, Flips=81
+Genetic Run 2: Time=1.0165 seconds, Flips=82
+Genetic Run 3: Time=1.0568 seconds, Flips=82
+Genetic Run 4: Time=1.0236 seconds, Flips=82
+Genetic Run 5: Time=1.0249 seconds, Flips=83
+Genetic Run 6: Time=1.0629 seconds, Flips=83
+Genetic Run 7: Time=1.0297 seconds, Flips=83
+Genetic Run 8: Time=1.0181 seconds, Flips=82
+Genetic Run 9: Time=0.9927 seconds, Flips=83
+Genetic Run 10: Time=0.9892 seconds, Flips=83
+
+Formula 10
+DPLL: Time=0.0067 seconds, Nodes expanded=49
+WalkSAT Run 1: Time=0.3475 seconds, Max satisfied=82
+WalkSAT Run 2: Time=0.3448 seconds, Max satisfied=82
+WalkSAT Run 3: Time=0.3484 seconds, Max satisfied=82
+WalkSAT Run 4: Time=0.3483 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3449 seconds, Max satisfied=82
+WalkSAT Run 6: Time=0.3459 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3500 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3520 seconds, Max satisfied=82
+WalkSAT Run 9: Time=0.3461 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3463 seconds, Max satisfied=82
+Genetic Run 1: Time=0.9999 seconds, Flips=82
+Genetic Run 2: Time=0.9491 seconds, Flips=83
+Genetic Run 3: Time=1.0476 seconds, Flips=81
+Genetic Run 4: Time=1.0807 seconds, Flips=82
+Genetic Run 5: Time=1.0298 seconds, Flips=82
+Genetic Run 6: Time=1.0373 seconds, Flips=81
+Genetic Run 7: Time=1.0026 seconds, Flips=82
+Genetic Run 8: Time=1.0025 seconds, Flips=82
+Genetic Run 9: Time=1.0073 seconds, Flips=82
+Genetic Run 10: Time=1.0331 seconds, Flips=83
+
+Formula 11
+DPLL: Time=0.0010 seconds, Nodes expanded=13
+WalkSAT Run 1: Time=0.3590 seconds, Max satisfied=82
+WalkSAT Run 2: Time=0.3594 seconds, Max satisfied=82
+WalkSAT Run 3: Time=0.3606 seconds, Max satisfied=82
+WalkSAT Run 4: Time=0.3546 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3510 seconds, Max satisfied=82
+WalkSAT Run 6: Time=0.3615 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3526 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3580 seconds, Max satisfied=82
+WalkSAT Run 9: Time=0.3574 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3560 seconds, Max satisfied=82
+Genetic Run 1: Time=1.0473 seconds, Flips=82
+Genetic Run 2: Time=1.0466 seconds, Flips=81
+Genetic Run 3: Time=1.0215 seconds, Flips=81
+Genetic Run 4: Time=1.0363 seconds, Flips=83
+Genetic Run 5: Time=1.0527 seconds, Flips=82
+Genetic Run 6: Time=1.0295 seconds, Flips=83
+Genetic Run 7: Time=0.9944 seconds, Flips=82
+Genetic Run 8: Time=0.9767 seconds, Flips=82
+Genetic Run 9: Time=0.9977 seconds, Flips=83
+Genetic Run 10: Time=0.9774 seconds, Flips=82
+
+Formula 12
+DPLL: Time=0.0078 seconds, Nodes expanded=59
+WalkSAT Run 1: Time=0.3518 seconds, Max satisfied=82
+WalkSAT Run 2: Time=0.3603 seconds, Max satisfied=82
+WalkSAT Run 3: Time=0.3568 seconds, Max satisfied=82
+WalkSAT Run 4: Time=0.3528 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3518 seconds, Max satisfied=82
+WalkSAT Run 6: Time=0.3472 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3477 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3623 seconds, Max satisfied=82
+WalkSAT Run 9: Time=0.3598 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3570 seconds, Max satisfied=82
+Genetic Run 1: Time=1.0224 seconds, Flips=81
+Genetic Run 2: Time=0.9804 seconds, Flips=83
+Genetic Run 3: Time=1.0226 seconds, Flips=81
+Genetic Run 4: Time=0.9951 seconds, Flips=82
+Genetic Run 5: Time=1.0260 seconds, Flips=82
+Genetic Run 6: Time=0.9471 seconds, Flips=82
+Genetic Run 7: Time=0.9513 seconds, Flips=82
+Genetic Run 8: Time=0.9758 seconds, Flips=80
+Genetic Run 9: Time=1.0246 seconds, Flips=82
+Genetic Run 10: Time=0.9228 seconds, Flips=82
+
+Formula 13
+DPLL: Time=0.0014 seconds, Nodes expanded=14
+WalkSAT Run 1: Time=0.3337 seconds, Max satisfied=83
+WalkSAT Run 2: Time=0.3378 seconds, Max satisfied=81
+WalkSAT Run 3: Time=0.3491 seconds, Max satisfied=82
+WalkSAT Run 4: Time=0.3445 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3453 seconds, Max satisfied=81
+WalkSAT Run 6: Time=0.3437 seconds, Max satisfied=83
+WalkSAT Run 7: Time=0.3474 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3442 seconds, Max satisfied=81
+WalkSAT Run 9: Time=0.3391 seconds, Max satisfied=81
+WalkSAT Run 10: Time=0.3342 seconds, Max satisfied=81
+Genetic Run 1: Time=0.2891 seconds, Flips=84
+Genetic Run 2: Time=0.9071 seconds, Flips=83
+Genetic Run 3: Time=0.9736 seconds, Flips=82
+Genetic Run 4: Time=0.9199 seconds, Flips=83
+Genetic Run 5: Time=0.9351 seconds, Flips=83
+Genetic Run 6: Time=1.0290 seconds, Flips=83
+Genetic Run 7: Time=1.0414 seconds, Flips=82
+Genetic Run 8: Time=1.0431 seconds, Flips=82
+Genetic Run 9: Time=0.9908 seconds, Flips=83
+Genetic Run 10: Time=1.0084 seconds, Flips=83
+
+Formula 14
+DPLL: Time=0.0044 seconds, Nodes expanded=31
+WalkSAT Run 1: Time=0.3382 seconds, Max satisfied=83
+WalkSAT Run 2: Time=0.3411 seconds, Max satisfied=83
+WalkSAT Run 3: Time=0.3417 seconds, Max satisfied=82
+WalkSAT Run 4: Time=0.3494 seconds, Max satisfied=82
+WalkSAT Run 5: Time=0.3422 seconds, Max satisfied=82
+WalkSAT Run 6: Time=0.3416 seconds, Max satisfied=82
+WalkSAT Run 7: Time=0.3449 seconds, Max satisfied=82
+WalkSAT Run 8: Time=0.3467 seconds, Max satisfied=82
+WalkSAT Run 9: Time=0.3481 seconds, Max satisfied=82
+WalkSAT Run 10: Time=0.3472 seconds, Max satisfied=82
+Genetic Run 1: Time=0.9907 seconds, Flips=81
+Genetic Run 2: Time=0.9617 seconds, Flips=82
+Genetic Run 3: Time=0.9745 seconds, Flips=83
+Genetic Run 4: Time=0.9874 seconds, Flips=82
+Genetic Run 5: Time=0.9817 seconds, Flips=82
+Genetic Run 6: Time=1.0466 seconds, Flips=81
+Genetic Run 7: Time=1.0362 seconds, Flips=81
+Genetic Run 8: Time=1.0558 seconds, Flips=80
+Genetic Run 9: Time=0.9964 seconds, Flips=83
+Genetic Run 10: Time=0.9753 seconds, Flips=83
+
+Formula 15
+DPLL: Time=0.0005 seconds, Nodes expanded=5
+WalkSAT Run 1: Time=0.3589 seconds, Max satisfied=79
+WalkSAT Run 2: Time=0.3588 seconds, Max satisfied=79
+WalkSAT Run 3: Time=0.3562 seconds, Max satisfied=79
+WalkSAT Run 4: Time=0.3610 seconds, Max satisfied=79
+WalkSAT Run 5: Time=0.3600 seconds, Max satisfied=79
+WalkSAT Run 6: Time=0.3586 seconds, Max satisfied=80
+WalkSAT Run 7: Time=0.3780 seconds, Max satisfied=79
+WalkSAT Run 8: Time=0.3618 seconds, Max satisfied=79
+WalkSAT Run 9: Time=0.3541 seconds, Max satisfied=79
+WalkSAT Run 10: Time=0.3534 seconds, Max satisfied=79
+Genetic Run 1: Time=0.9916 seconds, Flips=81
+Genetic Run 2: Time=0.9958 seconds, Flips=82
+Genetic Run 3: Time=0.9777 seconds, Flips=81
+Genetic Run 4: Time=1.0407 seconds, Flips=82
+Genetic Run 5: Time=1.0517 seconds, Flips=83
+Genetic Run 6: Time=0.9855 seconds, Flips=83
+Genetic Run 7: Time=1.0206 seconds, Flips=81
+Genetic Run 8: Time=1.0156 seconds, Flips=82
+Genetic Run 9: Time=1.0096 seconds, Flips=82
+Genetic Run 10: Time=1.0099 seconds, Flips=82
+
+Formula 16
+DPLL: Time=0.0055 seconds, Nodes expanded=37
+WalkSAT Run 1: Time=0.3593 seconds, Max satisfied=80
+WalkSAT Run 2: Time=0.3573 seconds, Max satisfied=80
+WalkSAT Run 3: Time=0.3616 seconds, Max satisfied=81
+WalkSAT Run 4: Time=0.3668 seconds, Max satisfied=80
+WalkSAT Run 5: Time=0.3614 seconds, Max satisfied=81
+WalkSAT Run 6: Time=0.3489 seconds, Max satisfied=80
+WalkSAT Run 7: Time=0.3462 seconds, Max satisfied=80
+WalkSAT Run 8: Time=0.3529 seconds, Max satisfied=80
+WalkSAT Run 9: Time=0.3528 seconds, Max satisfied=81
+WalkSAT Run 10: Time=0.3498 seconds, Max satisfied=80
+Genetic Run 1: Time=1.0584 seconds, Flips=82
+Genetic Run 2: Time=1.0049 seconds, Flips=81
+Genetic Run 3: Time=1.0466 seconds, Flips=81
+Genetic Run 4: Time=1.0213 seconds, Flips=81
+Genetic Run 5: Time=1.0173 seconds, Flips=82
+Genetic Run 6: Time=1.0166 seconds, Flips=82
+Genetic Run 7: Time=1.0174 seconds, Flips=81
+Genetic Run 8: Time=1.0273 seconds, Flips=83
+Genetic Run 9: Time=1.0308 seconds, Flips=83
+Genetic Run 10: Time=1.0124 seconds, Flips=82
+
+Formula 17
+DPLL: Time=0.0042 seconds, Nodes expanded=15
+WalkSAT Run 1: Time=0.6764 seconds, Max satisfied=161
+WalkSAT Run 2: Time=0.6960 seconds, Max satisfied=161
+WalkSAT Run 3: Time=0.6745 seconds, Max satisfied=164
+WalkSAT Run 4: Time=0.6858 seconds, Max satisfied=164
+WalkSAT Run 5: Time=0.6899 seconds, Max satisfied=162
+WalkSAT Run 6: Time=0.6816 seconds, Max satisfied=161
+WalkSAT Run 7: Time=0.6728 seconds, Max satisfied=165
+WalkSAT Run 8: Time=0.6876 seconds, Max satisfied=162
+WalkSAT Run 9: Time=0.6961 seconds, Max satisfied=161
+WalkSAT Run 10: Time=0.6875 seconds, Max satisfied=162
+Genetic Run 1: Time=2.3855 seconds, Flips=158
+Genetic Run 2: Time=2.2217 seconds, Flips=159
+Genetic Run 3: Time=2.0282 seconds, Flips=162
+Genetic Run 4: Time=2.1320 seconds, Flips=161
+Genetic Run 5: Time=1.9727 seconds, Flips=161
+Genetic Run 6: Time=1.9842 seconds, Flips=160
+Genetic Run 7: Time=2.0212 seconds, Flips=159
+Genetic Run 8: Time=2.0188 seconds, Flips=162
+Genetic Run 9: Time=2.1104 seconds, Flips=159
+Genetic Run 10: Time=2.0158 seconds, Flips=159
+
+Formula 18
+DPLL: Time=0.0740 seconds, Nodes expanded=155
+WalkSAT Run 1: Time=0.6833 seconds, Max satisfied=162
+WalkSAT Run 2: Time=0.6968 seconds, Max satisfied=164
+WalkSAT Run 3: Time=0.6656 seconds, Max satisfied=164
+WalkSAT Run 4: Time=0.6666 seconds, Max satisfied=163
+WalkSAT Run 5: Time=0.6784 seconds, Max satisfied=164
+WalkSAT Run 6: Time=0.6878 seconds, Max satisfied=164
+WalkSAT Run 7: Time=0.6610 seconds, Max satisfied=165
+WalkSAT Run 8: Time=0.6840 seconds, Max satisfied=164
+WalkSAT Run 9: Time=0.6727 seconds, Max satisfied=165
+WalkSAT Run 10: Time=0.6949 seconds, Max satisfied=164
+Genetic Run 1: Time=1.9829 seconds, Flips=162
+Genetic Run 2: Time=2.0149 seconds, Flips=159
+Genetic Run 3: Time=1.8983 seconds, Flips=159
+Genetic Run 4: Time=2.0540 seconds, Flips=160
+Genetic Run 5: Time=2.0023 seconds, Flips=159
+Genetic Run 6: Time=2.0766 seconds, Flips=160
+Genetic Run 7: Time=1.9947 seconds, Flips=164
+Genetic Run 8: Time=1.9473 seconds, Flips=157
+Genetic Run 9: Time=1.9775 seconds, Flips=161
+Genetic Run 10: Time=1.9920 seconds, Flips=160
+
+Formula 19
+DPLL: Time=0.0083 seconds, Nodes expanded=28
+WalkSAT Run 1: Time=0.6967 seconds, Max satisfied=162
+WalkSAT Run 2: Time=0.6666 seconds, Max satisfied=162
+WalkSAT Run 3: Time=0.6585 seconds, Max satisfied=162
+WalkSAT Run 4: Time=0.6692 seconds, Max satisfied=163
+WalkSAT Run 5: Time=0.6632 seconds, Max satisfied=162
+WalkSAT Run 6: Time=0.6609 seconds, Max satisfied=162
+WalkSAT Run 7: Time=0.6706 seconds, Max satisfied=161
+WalkSAT Run 8: Time=0.6631 seconds, Max satisfied=163
+WalkSAT Run 9: Time=0.6961 seconds, Max satisfied=161
+WalkSAT Run 10: Time=0.6686 seconds, Max satisfied=162
+Genetic Run 1: Time=2.0397 seconds, Flips=159
+Genetic Run 2: Time=2.0532 seconds, Flips=162
+Genetic Run 3: Time=2.0510 seconds, Flips=161
+Genetic Run 4: Time=1.9254 seconds, Flips=162
+Genetic Run 5: Time=2.0073 seconds, Flips=160
+Genetic Run 6: Time=2.0280 seconds, Flips=160
+Genetic Run 7: Time=2.0739 seconds, Flips=161
+Genetic Run 8: Time=2.0706 seconds, Flips=158
+Genetic Run 9: Time=2.0539 seconds, Flips=159
+Genetic Run 10: Time=1.9809 seconds, Flips=162
+
+Formula 20
+DPLL: Time=0.1918 seconds, Nodes expanded=423
+WalkSAT Run 1: Time=0.6608 seconds, Max satisfied=165
+WalkSAT Run 2: Time=0.6604 seconds, Max satisfied=166
+WalkSAT Run 3: Time=0.6893 seconds, Max satisfied=165
+WalkSAT Run 4: Time=0.6723 seconds, Max satisfied=165
+WalkSAT Run 5: Time=0.6848 seconds, Max satisfied=166
+WalkSAT Run 6: Time=0.6721 seconds, Max satisfied=166
+WalkSAT Run 7: Time=0.6626 seconds, Max satisfied=164
+WalkSAT Run 8: Time=0.6622 seconds, Max satisfied=165
+WalkSAT Run 9: Time=0.6702 seconds, Max satisfied=166
+WalkSAT Run 10: Time=0.6693 seconds, Max satisfied=166
+Genetic Run 1: Time=2.0215 seconds, Flips=158
+Genetic Run 2: Time=2.0150 seconds, Flips=162
+Genetic Run 3: Time=2.0470 seconds, Flips=163
+Genetic Run 4: Time=2.0313 seconds, Flips=159
+Genetic Run 5: Time=1.9686 seconds, Flips=163
+Genetic Run 6: Time=2.0413 seconds, Flips=159
+Genetic Run 7: Time=2.0264 seconds, Flips=158
+Genetic Run 8: Time=2.0263 seconds, Flips=161
+Genetic Run 9: Time=2.0820 seconds, Flips=160
+Genetic Run 10: Time=2.0702 seconds, Flips=158
+
+Formula 21
+DPLL: Time=0.0992 seconds, Nodes expanded=278
+WalkSAT Run 1: Time=0.6939 seconds, Max satisfied=164
+WalkSAT Run 2: Time=0.6933 seconds, Max satisfied=164
+WalkSAT Run 3: Time=0.6883 seconds, Max satisfied=164
+WalkSAT Run 4: Time=0.6971 seconds, Max satisfied=164
+WalkSAT Run 5: Time=0.7172 seconds, Max satisfied=164
+WalkSAT Run 6: Time=0.7038 seconds, Max satisfied=164
+WalkSAT Run 7: Time=0.6913 seconds, Max satisfied=164
+WalkSAT Run 8: Time=0.6851 seconds, Max satisfied=164
+WalkSAT Run 9: Time=0.6821 seconds, Max satisfied=164
+WalkSAT Run 10: Time=0.7037 seconds, Max satisfied=164
+Genetic Run 1: Time=1.9773 seconds, Flips=162
+Genetic Run 2: Time=1.9300 seconds, Flips=161
+Genetic Run 3: Time=2.0390 seconds, Flips=160
+Genetic Run 4: Time=1.9597 seconds, Flips=161
+Genetic Run 5: Time=1.9978 seconds, Flips=161
+Genetic Run 6: Time=1.9501 seconds, Flips=163
+Genetic Run 7: Time=2.0066 seconds, Flips=162
+Genetic Run 8: Time=2.0666 seconds, Flips=160
+Genetic Run 9: Time=2.0041 seconds, Flips=161
+Genetic Run 10: Time=1.9670 seconds, Flips=162
+
+Formula 22
+DPLL: Time=0.0449 seconds, Nodes expanded=97
+WalkSAT Run 1: Time=0.6709 seconds, Max satisfied=162
+WalkSAT Run 2: Time=0.6725 seconds, Max satisfied=162
+WalkSAT Run 3: Time=0.6898 seconds, Max satisfied=163
+WalkSAT Run 4: Time=0.6549 seconds, Max satisfied=163
+WalkSAT Run 5: Time=0.6556 seconds, Max satisfied=164
+WalkSAT Run 6: Time=0.6711 seconds, Max satisfied=163
+WalkSAT Run 7: Time=0.6692 seconds, Max satisfied=163
+WalkSAT Run 8: Time=0.6647 seconds, Max satisfied=164
+WalkSAT Run 9: Time=0.6665 seconds, Max satisfied=163
+WalkSAT Run 10: Time=0.6645 seconds, Max satisfied=163
+Genetic Run 1: Time=2.0419 seconds, Flips=158
+Genetic Run 2: Time=2.0378 seconds, Flips=161
+Genetic Run 3: Time=1.9577 seconds, Flips=158
+Genetic Run 4: Time=1.9370 seconds, Flips=161
+Genetic Run 5: Time=1.9653 seconds, Flips=161
+Genetic Run 6: Time=2.0609 seconds, Flips=158
+Genetic Run 7: Time=2.1279 seconds, Flips=158
+Genetic Run 8: Time=1.9517 seconds, Flips=159
+Genetic Run 9: Time=2.0398 seconds, Flips=157
+Genetic Run 10: Time=2.0517 seconds, Flips=160
+
+Formula 23
+DPLL: Time=0.0241 seconds, Nodes expanded=57
+WalkSAT Run 1: Time=0.6847 seconds, Max satisfied=164
+WalkSAT Run 2: Time=0.6618 seconds, Max satisfied=166
+WalkSAT Run 3: Time=0.6852 seconds, Max satisfied=165
+WalkSAT Run 4: Time=0.7005 seconds, Max satisfied=164
+WalkSAT Run 5: Time=0.6836 seconds, Max satisfied=165
+WalkSAT Run 6: Time=0.6617 seconds, Max satisfied=164
+WalkSAT Run 7: Time=0.6698 seconds, Max satisfied=162
+WalkSAT Run 8: Time=0.6677 seconds, Max satisfied=165
+WalkSAT Run 9: Time=0.6648 seconds, Max satisfied=163
+WalkSAT Run 10: Time=0.6661 seconds, Max satisfied=165
+Genetic Run 1: Time=1.9931 seconds, Flips=160
+Genetic Run 2: Time=2.0961 seconds, Flips=161
+Genetic Run 3: Time=2.0201 seconds, Flips=161
+Genetic Run 4: Time=2.1616 seconds, Flips=160
+Genetic Run 5: Time=2.0689 seconds, Flips=162
+Genetic Run 6: Time=1.9980 seconds, Flips=161
+Genetic Run 7: Time=2.1518 seconds, Flips=159
+Genetic Run 8: Time=1.9574 seconds, Flips=161
+Genetic Run 9: Time=2.0501 seconds, Flips=160
+Genetic Run 10: Time=2.0434 seconds, Flips=159
+
+Formula 24
+DPLL: Time=0.1526 seconds, Nodes expanded=335
+WalkSAT Run 1: Time=0.6786 seconds, Max satisfied=158
+WalkSAT Run 2: Time=0.6732 seconds, Max satisfied=159
+WalkSAT Run 3: Time=0.6797 seconds, Max satisfied=162
+WalkSAT Run 4: Time=0.6746 seconds, Max satisfied=158
+WalkSAT Run 5: Time=0.6751 seconds, Max satisfied=161
+WalkSAT Run 6: Time=0.6786 seconds, Max satisfied=158
+WalkSAT Run 7: Time=0.6811 seconds, Max satisfied=166
+WalkSAT Run 8: Time=0.6765 seconds, Max satisfied=158
+WalkSAT Run 9: Time=0.6739 seconds, Max satisfied=163
+WalkSAT Run 10: Time=0.6929 seconds, Max satisfied=159
+Genetic Run 1: Time=2.2612 seconds, Flips=159
+Genetic Run 2: Time=2.0977 seconds, Flips=159
+Genetic Run 3: Time=2.0160 seconds, Flips=158
+Genetic Run 4: Time=2.0413 seconds, Flips=160
+Genetic Run 5: Time=2.0550 seconds, Flips=160
+Genetic Run 6: Time=2.1611 seconds, Flips=156
+Genetic Run 7: Time=2.1048 seconds, Flips=161
+Genetic Run 8: Time=1.9304 seconds, Flips=159
+Genetic Run 9: Time=2.0367 seconds, Flips=159
+Genetic Run 10: Time=2.0514 seconds, Flips=160
+
+Formula 25
+DPLL: Time=0.0016 seconds, Nodes expanded=12
+WalkSAT Run 1: Time=0.6540 seconds, Max satisfied=163
+WalkSAT Run 2: Time=0.6579 seconds, Max satisfied=163
+WalkSAT Run 3: Time=0.6528 seconds, Max satisfied=163
+WalkSAT Run 4: Time=0.6461 seconds, Max satisfied=163
+WalkSAT Run 5: Time=0.6544 seconds, Max satisfied=163
+WalkSAT Run 6: Time=0.6627 seconds, Max satisfied=163
+WalkSAT Run 7: Time=0.6740 seconds, Max satisfied=163
+WalkSAT Run 8: Time=0.6635 seconds, Max satisfied=163
+WalkSAT Run 9: Time=0.6790 seconds, Max satisfied=163
+WalkSAT Run 10: Time=0.6780 seconds, Max satisfied=163
+Genetic Run 1: Time=2.0300 seconds, Flips=162
+Genetic Run 2: Time=1.9486 seconds, Flips=160
+Genetic Run 3: Time=2.1277 seconds, Flips=158
+Genetic Run 4: Time=2.0828 seconds, Flips=162
+Genetic Run 5: Time=2.0969 seconds, Flips=162
+Genetic Run 6: Time=1.9368 seconds, Flips=163
+Genetic Run 7: Time=1.9166 seconds, Flips=163
+Genetic Run 8: Time=2.0561 seconds, Flips=160
+Genetic Run 9: Time=2.0500 seconds, Flips=160
+Genetic Run 10: Time=2.0008 seconds, Flips=160
+
+Formula 26
+DPLL: Time=0.0599 seconds, Nodes expanded=117
+WalkSAT Run 1: Time=0.6797 seconds, Max satisfied=161
+WalkSAT Run 2: Time=0.7185 seconds, Max satisfied=162
+WalkSAT Run 3: Time=0.6645 seconds, Max satisfied=161
+WalkSAT Run 4: Time=0.6576 seconds, Max satisfied=161
+WalkSAT Run 5: Time=0.6792 seconds, Max satisfied=161
+WalkSAT Run 6: Time=0.6831 seconds, Max satisfied=163
+WalkSAT Run 7: Time=0.7151 seconds, Max satisfied=162
+WalkSAT Run 8: Time=0.6854 seconds, Max satisfied=162
+WalkSAT Run 9: Time=0.7017 seconds, Max satisfied=163
+WalkSAT Run 10: Time=0.7154 seconds, Max satisfied=161
+Genetic Run 1: Time=2.0045 seconds, Flips=158
+Genetic Run 2: Time=2.0496 seconds, Flips=159
+Genetic Run 3: Time=2.0180 seconds, Flips=159
+Genetic Run 4: Time=1.9869 seconds, Flips=158
+Genetic Run 5: Time=2.0097 seconds, Flips=159
+Genetic Run 6: Time=1.9906 seconds, Flips=159
+Genetic Run 7: Time=1.9590 seconds, Flips=161
+Genetic Run 8: Time=1.9794 seconds, Flips=160
+Genetic Run 9: Time=2.0783 seconds, Flips=160
+Genetic Run 10: Time=2.0946 seconds, Flips=160
+
+Formula 27
+DPLL: Time=0.0414 seconds, Nodes expanded=107
+WalkSAT Run 1: Time=0.6822 seconds, Max satisfied=164
+WalkSAT Run 2: Time=0.6971 seconds, Max satisfied=164
+WalkSAT Run 3: Time=0.6706 seconds, Max satisfied=163
+WalkSAT Run 4: Time=0.6878 seconds, Max satisfied=164
+WalkSAT Run 5: Time=0.6506 seconds, Max satisfied=164
+WalkSAT Run 6: Time=0.7048 seconds, Max satisfied=164
+WalkSAT Run 7: Time=0.6894 seconds, Max satisfied=164
+WalkSAT Run 8: Time=0.6837 seconds, Max satisfied=165
+WalkSAT Run 9: Time=0.6634 seconds, Max satisfied=164
+WalkSAT Run 10: Time=0.6545 seconds, Max satisfied=164
+Genetic Run 1: Time=2.0634 seconds, Flips=159
+Genetic Run 2: Time=2.1602 seconds, Flips=158
+Genetic Run 3: Time=2.0882 seconds, Flips=160
+Genetic Run 4: Time=2.0585 seconds, Flips=160
+Genetic Run 5: Time=2.0337 seconds, Flips=162
+Genetic Run 6: Time=2.1010 seconds, Flips=163
+Genetic Run 7: Time=2.0614 seconds, Flips=162
+Genetic Run 8: Time=2.0610 seconds, Flips=160
+Genetic Run 9: Time=2.0055 seconds, Flips=163
+Genetic Run 10: Time=1.9897 seconds, Flips=159
+
+Formula 28
+DPLL: Time=0.0976 seconds, Nodes expanded=219
+WalkSAT Run 1: Time=0.6810 seconds, Max satisfied=165
+WalkSAT Run 2: Time=0.6864 seconds, Max satisfied=163
+WalkSAT Run 3: Time=0.7235 seconds, Max satisfied=162
+WalkSAT Run 4: Time=0.6846 seconds, Max satisfied=163
+WalkSAT Run 5: Time=0.6933 seconds, Max satisfied=165
+WalkSAT Run 6: Time=0.6946 seconds, Max satisfied=165
+WalkSAT Run 7: Time=0.6802 seconds, Max satisfied=165
+WalkSAT Run 8: Time=0.6867 seconds, Max satisfied=165
+WalkSAT Run 9: Time=0.6919 seconds, Max satisfied=165
+WalkSAT Run 10: Time=0.6819 seconds, Max satisfied=165
+Genetic Run 1: Time=1.9693 seconds, Flips=159
+Genetic Run 2: Time=1.9815 seconds, Flips=158
+Genetic Run 3: Time=2.0130 seconds, Flips=158
+Genetic Run 4: Time=2.0716 seconds, Flips=159
+Genetic Run 5: Time=2.0402 seconds, Flips=160
+Genetic Run 6: Time=2.0011 seconds, Flips=162
+Genetic Run 7: Time=2.0746 seconds, Flips=163
+Genetic Run 8: Time=2.0191 seconds, Flips=159
+Genetic Run 9: Time=2.0505 seconds, Flips=162
+Genetic Run 10: Time=2.0149 seconds, Flips=163
+
+Formula 29
+DPLL: Time=0.0502 seconds, Nodes expanded=140
+WalkSAT Run 1: Time=0.6640 seconds, Max satisfied=166
+WalkSAT Run 2: Time=0.6582 seconds, Max satisfied=166
+WalkSAT Run 3: Time=0.6615 seconds, Max satisfied=166
+WalkSAT Run 4: Time=0.6600 seconds, Max satisfied=166
+WalkSAT Run 5: Time=0.6680 seconds, Max satisfied=166
+WalkSAT Run 6: Time=0.6617 seconds, Max satisfied=166
+WalkSAT Run 7: Time=0.6529 seconds, Max satisfied=166
+WalkSAT Run 8: Time=0.6647 seconds, Max satisfied=166
+WalkSAT Run 9: Time=0.6670 seconds, Max satisfied=166
+WalkSAT Run 10: Time=0.6756 seconds, Max satisfied=166
+Genetic Run 1: Time=2.0725 seconds, Flips=160
+Genetic Run 2: Time=1.9736 seconds, Flips=161
+Genetic Run 3: Time=1.9550 seconds, Flips=164
+Genetic Run 4: Time=2.0130 seconds, Flips=161
+Genetic Run 5: Time=2.1014 seconds, Flips=161
+Genetic Run 6: Time=2.0956 seconds, Flips=158
+Genetic Run 7: Time=2.0475 seconds, Flips=160
+Genetic Run 8: Time=2.0497 seconds, Flips=159
+Genetic Run 9: Time=2.0401 seconds, Flips=161
+Genetic Run 10: Time=2.1336 seconds, Flips=158
+
+Formula 30
+DPLL: Time=0.0863 seconds, Nodes expanded=153
+WalkSAT Run 1: Time=0.6879 seconds, Max satisfied=163
+WalkSAT Run 2: Time=0.6818 seconds, Max satisfied=163
+WalkSAT Run 3: Time=0.6825 seconds, Max satisfied=163
+WalkSAT Run 4: Time=0.6764 seconds, Max satisfied=163
+WalkSAT Run 5: Time=0.6616 seconds, Max satisfied=163
+WalkSAT Run 6: Time=0.6662 seconds, Max satisfied=163
+WalkSAT Run 7: Time=0.6611 seconds, Max satisfied=163
+WalkSAT Run 8: Time=0.6933 seconds, Max satisfied=163
+WalkSAT Run 9: Time=0.6753 seconds, Max satisfied=165
+WalkSAT Run 10: Time=0.6801 seconds, Max satisfied=164
+Genetic Run 1: Time=2.1370 seconds, Flips=158
+Genetic Run 2: Time=2.1128 seconds, Flips=159
+Genetic Run 3: Time=2.1528 seconds, Flips=161
+Genetic Run 4: Time=2.1181 seconds, Flips=160
+Genetic Run 5: Time=2.1729 seconds, Flips=162
+Genetic Run 6: Time=2.2788 seconds, Flips=160
+Genetic Run 7: Time=2.1957 seconds, Flips=158
+Genetic Run 8: Time=1.9741 seconds, Flips=163
+Genetic Run 9: Time=2.0388 seconds, Flips=162
+Genetic Run 10: Time=2.1962 seconds, Flips=158
+
+Formula 31
+DPLL: Time=0.0036 seconds, Nodes expanded=9
+WalkSAT Run 1: Time=0.7603 seconds, Max satisfied=164
+WalkSAT Run 2: Time=0.7661 seconds, Max satisfied=164
+WalkSAT Run 3: Time=0.7343 seconds, Max satisfied=164
+WalkSAT Run 4: Time=0.6683 seconds, Max satisfied=164
+WalkSAT Run 5: Time=0.7100 seconds, Max satisfied=164
+WalkSAT Run 6: Time=0.6763 seconds, Max satisfied=164
+WalkSAT Run 7: Time=0.6938 seconds, Max satisfied=164
+WalkSAT Run 8: Time=0.6798 seconds, Max satisfied=165
+WalkSAT Run 9: Time=0.6747 seconds, Max satisfied=165
+WalkSAT Run 10: Time=0.6746 seconds, Max satisfied=164
+Genetic Run 1: Time=2.0263 seconds, Flips=162
+Genetic Run 2: Time=2.0206 seconds, Flips=163
+Genetic Run 3: Time=2.0004 seconds, Flips=162
+Genetic Run 4: Time=2.0808 seconds, Flips=161
+Genetic Run 5: Time=2.0267 seconds, Flips=161
+Genetic Run 6: Time=2.0496 seconds, Flips=161
+Genetic Run 7: Time=2.0790 seconds, Flips=162
+Genetic Run 8: Time=2.1862 seconds, Flips=158
+Genetic Run 9: Time=2.1731 seconds, Flips=158
+Genetic Run 10: Time=2.0300 seconds, Flips=162
+
+Formula 32
+DPLL: Time=0.1082 seconds, Nodes expanded=209
+WalkSAT Run 1: Time=0.6915 seconds, Max satisfied=164
+WalkSAT Run 2: Time=0.6750 seconds, Max satisfied=163
+WalkSAT Run 3: Time=0.6802 seconds, Max satisfied=164
+WalkSAT Run 4: Time=0.7164 seconds, Max satisfied=166
+WalkSAT Run 5: Time=0.7094 seconds, Max satisfied=161
+WalkSAT Run 6: Time=0.7127 seconds, Max satisfied=161
+WalkSAT Run 7: Time=0.6924 seconds, Max satisfied=165
+WalkSAT Run 8: Time=0.6881 seconds, Max satisfied=165
+WalkSAT Run 9: Time=0.6871 seconds, Max satisfied=165
+WalkSAT Run 10: Time=0.7062 seconds, Max satisfied=163
+Genetic Run 1: Time=2.0536 seconds, Flips=160
+Genetic Run 2: Time=2.0737 seconds, Flips=156
+Genetic Run 3: Time=2.1038 seconds, Flips=162
+Genetic Run 4: Time=2.0117 seconds, Flips=159
+Genetic Run 5: Time=2.0427 seconds, Flips=161
+Genetic Run 6: Time=2.1667 seconds, Flips=162
+Genetic Run 7: Time=2.1569 seconds, Flips=158
+Genetic Run 8: Time=2.0818 seconds, Flips=160
+Genetic Run 9: Time=2.0588 seconds, Flips=160
+Genetic Run 10: Time=2.2845 seconds, Flips=161
