@@ -104,7 +104,7 @@ def rejection_sampling(c1, c2, N=1000000):
     if count_accepted == 0:
         print("no samples accepted")
         return 0
-    return count_matching / count_accepted
+    return float(count_matching) / float(count_accepted)
 
 # parses arguments given in command line
 def parse_args(args):
